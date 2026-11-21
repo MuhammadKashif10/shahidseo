@@ -230,12 +230,13 @@ _Objective: Support the homepage and every service page with long-tail informati
 
 ---
 
-## 4. Publication Progress (Updated 2026-11-20)
+## 4. Publication Progress (Updated 2026-11-21)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **142**
-- Total published blog articles: **205**
-- Phase 7 service-support queue: **51 / 90 written**
+- Published supplemental approved articles: **145**
+- Total published blog articles: **208**
+- Phase 7 service-support queue: **54 / 90 written**
+- Published on 2026-11-21: **3**
 - Published on 2026-11-20: **3**
 - Published on 2026-11-19: **3**
 - Published on 2026-11-18: **3**
@@ -270,7 +271,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 18 (21/11/2026): new-build handover leftovers, preparing a villa before leaving it empty for the summer, and old sauna and steam cabins.**
+- Next approved priority: **Day 19 (23/11/2026): clearing junk safely in Dubai heat, old display cabinets, and junk dumped in a building corridor.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |

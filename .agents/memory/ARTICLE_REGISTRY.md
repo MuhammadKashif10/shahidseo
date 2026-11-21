@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-20**
+Last synchronized: **2026-11-21**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -210,10 +210,14 @@ Canonical implementation: `data/blog.ts`
 | 203 | `end of semester clear out for students in dubai`                         | Informational              | `/blog/end-of-semester-clear-out-for-students-dubai`                            | 2026-11-20 | Published |
 | 204 | `how to compost garden waste in dubai`                                    | Informational              | `/blog/how-to-compost-garden-waste-dubai`                                       | 2026-11-20 | Published |
 | 205 | `how to dispose of an old ro water filter in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-ro-water-filter-dubai`                          | 2026-11-20 | Published |
+| 206 | `what to do with leftovers at a new build handover in dubai`              | Informational              | `/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai`                 | 2026-11-21 | Published |
+| 207 | `how to prepare a villa before leaving it empty for the summer`           | Informational              | `/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai`     | 2026-11-21 | Published |
+| 208 | `how to dispose of an old sauna and steam cabin in dubai`                 | Informational              | `/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai`                    | 2026-11-21 | Published |
 
 ## Current counts
 
-- Published: **205**
+- Published: **208**
+- Published on 2026-11-21: **3**
 - Published on 2026-11-20: **3**
 - Published on 2026-11-19: **3**
 - Published on 2026-11-18: **3**
@@ -253,9 +257,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **142**
-- Service-support queue written: **51 / 90**
-- Next approved priority: **Day 18 (21/11/2026): new-build handover leftovers, preparing a villa before leaving it empty for the summer, and old sauna and steam cabins.**
+- Supplemental approved articles published: **145**
+- Service-support queue written: **54 / 90**
+- Next approved priority: **Day 19 (23/11/2026): clearing junk safely in Dubai heat, old display cabinets, and junk dumped in a building corridor.**
+
+## Cannibalization notes for 2026-11-21 batch
+
+- The new-build guide owns what the developer and the build leave at handover: the spares kit to keep (tiles, paint codes, manuals, keys), snag-repair debris as the developer's contractor's responsibility, bin-room pressure when a building hands over at once, and timing one collection between snag sign-off and furniture delivery. The moving-boxes guide retains cartons from the owner's own move; the post-renovation guide retains owner-commissioned renovation debris; the planned 'items the seller left in your new villa' article retains resale purchases. Commercial intent stays with `/services/junk-removal-dubai`.
+- The summer villa guide owns the weeks before an owner travels: clearing stored junk, perishables and pantry, dry fronds and irrigation checks, AC, water heater, gas and pool settings, and a key holder. The empty-for-months guide retains re-entry after prolonged vacancy; the planned 'villa clearance while you are abroad' article retains remote clearances. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The sauna guide owns traditional, infrared and steam-cabin units: electrical isolation, steam generator draining, reverse-order dismantling, taping tempered glass and the material routes. The hot tub guide retains outdoor spas and Jacuzzis; the bathroom fixtures guide retains ordinary screens, basins and toilets. Commercial intent stays with `/services/bulky-item-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the moving-boxes, empty-for-months villa and hot tub guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-21.md`.
 
 ## Cannibalization notes for 2026-11-20 batch
 

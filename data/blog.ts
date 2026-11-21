@@ -51,6 +51,261 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "what-to-do-with-leftovers-at-a-new-build-handover-dubai",
+    title: "What to Do With Leftovers at a New Build Handover in Dubai: Packaging, Offcuts and Snag Debris",
+    seoTitle: "What to Do With New Build Handover Leftovers in Dubai",
+    excerpt:
+      "What to do with leftovers at a new build handover in Dubai: keep spare tiles and paint, make the developer clear snag debris, then stage the rest for one pickup.",
+    category: "Moving & Clearance",
+    tags: ["New Build", "Handover", "Snagging", "Packaging Waste", "Dubai"],
+    coverImage: "/images/blog/sort-junk-recycling-dubai-hero.webp",
+    coverImageAlt:
+      "Worker in a green uniform lifting flattened cardboard onto a tall stack beside a crate of metal kitchen racks, while a woman folds textiles into clear storage tubs in a villa garage",
+    publishedAt: "2026-11-21",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Before clearing anything, set aside a small handover kit: spare tiles, paint references, manuals, warranty cards and every key and access card.",
+      "Debris from snag repairs is the developer's contractor's to remove; write that on the snag list rather than assuming it.",
+      "A newly handed-over building's bin room is not built for a whole floor moving in at once, so keep leftovers inside your unit until collection.",
+      "Book one collection after the snag works close and before your furniture arrives, when the unit is emptiest and the leftovers are all in one place.",
+    ],
+    sections: [
+      {
+        heading: "What to do with leftovers at a new build handover in Dubai",
+        content: [
+          "When you take the keys to a new build in Dubai, keep the useful leftovers first: a box of each spare tile, the paint references, manuals, warranty cards and all keys and access cards. Ask the developer's contractor to take away anything left from snag repairs. Then flatten the packaging, separate film, timber and metal, and book a single collection before your furniture arrives. Checked on 21/11/2026.",
+          "A new unit rarely arrives empty. Protective film is still on the window frames, cardboard corner guards are taped to the kitchen, a pallet sits in the garage, and the first round of snag repairs leaves behind removed fittings and dust. None of it looks like much until it all has to leave through one service lift on the same week as every other new owner on the floor.",
+          "This guide covers what the developer and the build leave behind. Cartons from your own move are covered in the [moving boxes and packing waste guide](/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai), and leftovers from a renovation you commission later belong in the [post-renovation clean-up guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai).",
+        ],
+        callout: {
+          title: "Keep the spares before you clear anything",
+          text: "The spare tiles in the store room are the only exact match you will get if a tile cracks during the defects period or years later, because tile batches vary in colour. Keep at least one box of each type, and photograph the labels on any paint tins before they go.",
+        },
+      },
+      {
+        heading: "What the developer should take away, and what becomes yours",
+        content: [
+          "Handover usually involves a snagging inspection, a list of defects and a round of repairs by the developer's contractor. When a cracked basin, a scratched door or a faulty light is replaced, the old item and its packaging are part of that job. Add a line to the snag list asking for all debris from the repairs to be removed, and check the balcony, store room and garage before you sign that a snag is closed.",
+          "Leftover construction material is different. Odd lengths of skirting, part bags of grout, spare light fittings and the developer's pallets are often left deliberately, either as spares or because nobody collected them. Once the keys are yours, anything inside the unit is in practice yours to deal with, so decide early what is worth keeping.",
+          "Your sale and purchase agreement sets out the defects period and what the developer must fix during it. Keep a copy with the handover documents rather than in a box you might clear by mistake.",
+        ],
+      },
+      {
+        heading: "Keep a small handover kit and clear the rest",
+        content: [
+          "A shoebox-sized kit saves calls and costs later. Store it somewhere dry and away from the AC plant, not in an outdoor store that bakes in summer.",
+        ],
+        listItems: [
+          "Spare tiles, at least one box of each floor and wall tile, with the label kept.",
+          "Paint colour names and codes for each room, photographed from the tins or the handover pack.",
+          "Appliance manuals, warranty cards and the developer's handover booklet.",
+          "Every key, access card, parking tag and remote, counted and labelled.",
+          "Spare light fittings, cabinet handles or hinges supplied as extras, if they match what is installed.",
+        ],
+      },
+      {
+        heading: "Why a new building's bin room cannot take it yet",
+        content: [
+          "In a newly handed-over tower or community, dozens of households move in within the same few weeks. The bin room was sized for normal living, not for every unit's corner guards, film and pallets at once, and recycling containers may not yet be in place. Leaving leftovers beside full bins or in a corridor tends to bring a notice from the community management, and a pile in a fire route is a safety problem as well as a nuisance.",
+          "Ask the building or community management what is allowed before you start: whether a move-in permit is needed, which hours the service lift can be booked and whether contractors need a separate access approval. Keep everything inside your unit, or in your own garage or store room, until it is collected.",
+        ],
+        image: {
+          src: "/images/blog/old-doors-staged-collection-dubai.webp",
+          alt: "Two wood-effect doors wrapped in grey moving blankets on a green A-frame trolley, a damaged hollow-core door on timber blocks and a tray of hinges and handles on a villa driveway beside an open box truck with a ramp",
+        },
+      },
+      {
+        heading: "Sort the leftovers into streams before the collection",
+        content: [
+          "Flatten cardboard and strip the tape. Peel protective film off frames, glass and floors in one pass, ball it up and bag it separately from the cardboard, because film mixed into a cardboard bundle often spoils it for recycling. Stack pallets, skirting offcuts and timber packing in one pile; the [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains which of it can be reused.",
+          "Paint, sealant and adhesive tins are not general rubbish, even when nearly empty. Keep one small tin of each colour for touch-ups and follow the [paint and hazardous liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) for the rest. If you are swapping developer-standard fittings for your own, such as mirrors, shower screens or light fittings, keep the removed items intact and wrapped; the [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers handling broken pieces safely.",
+        ],
+      },
+      {
+        heading: "Book one collection after the snag list closes",
+        content: [
+          "The best moment for a collection is after the snag repairs are signed off and before the furniture is delivered. The unit is empty, the leftovers are all in one place and the crew has a clear path to the lift. Booking earlier means a second visit for the repair debris; booking later means carrying pallets past a new sofa.",
+          "In tower phases at [Dubai Creek Harbour](/areas/dubai-creek-harbour), service lift slots fill quickly when a building hands over, so reserve one as soon as your snagging date is set. In townhouse and villa handovers at [Dubai South](/areas/dubai-south), the garage usually becomes the holding area, which makes it easy to stage streams side by side.",
+          "Our [junk removal team](/services/junk-removal-dubai) clears handover leftovers in a single visit, and our [general rubbish collection](/services/rubbish-removal-dubai) covers the bagged film, foam and loose packaging. [Send photos of the leftovers and your lift booking rules](/contact), and we will reply with a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["dubai-creek-harbour", "dubai-south"],
+  },
+  {
+    slug: "how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai",
+    title: "How to Prepare a Villa Before Leaving It Empty for the Summer in Dubai",
+    seoTitle: "Prepare a Villa Before Leaving It Empty for Summer in Dubai",
+    excerpt:
+      "How to prepare a villa before leaving it empty for the summer: clear food and junk, cut garden fire and pest risks, set the AC and leave someone with a key.",
+    category: "Guides",
+    tags: ["Villa", "Summer Travel", "Empty Home", "Garden", "Dubai"],
+    coverImage: "/images/blog/fridge-removal-preparation-dubai.webp",
+    coverImageAlt:
+      "Technician kneeling beside an emptied stainless steel French-door fridge with its doors open, closing the water valve behind it, with the drawers and glass shelves removed and stacked on the kitchen floor",
+    publishedAt: "2026-11-21",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Start about three weeks before the flight, so junk, garden waste and unwanted furniture have actually left by the time you lock up.",
+      "Empty the fridge, freezer and pantry of anything that can spoil, and decide in advance whether the fridge stays on or is cleaned and left open.",
+      "Remove dry palm fronds, dead branches and cut piles before you go; in summer they are a fire, pest and complaint risk.",
+      "Agree AC, water, gas and pool settings with the people who maintain them, and leave a key with someone who can check the villa.",
+    ],
+    sections: [
+      {
+        heading: "How to prepare a villa before leaving it empty for the summer",
+        content: [
+          "To prepare a villa before leaving it empty for the summer, start about three weeks out. Clear the junk you have been storing, empty the kitchen of anything perishable, cut back dry fronds and dead growth, and remove the garden waste rather than piling it. Then agree AC, irrigation, water heater, gas and pool settings, empty and wash the bins, and leave a key and contact number with someone who can check in. Checked on 21/11/2026.",
+          "A villa that is empty from June to September sits through the hottest, most humid part of the year with nobody noticing small problems. A forgotten bag of rice, a pile of fronds by the boundary wall or a fridge that loses power in week two can each turn into a larger job by the time you are back.",
+          "This guide is about the weeks before you leave. If you are returning to a villa that has already been closed for months, the [guide to clearing a villa that has been empty for months](/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai) covers that first inspection and clean-up.",
+        ],
+        callout: {
+          title: "Leave a key with someone who can get in",
+          text: "A neighbour, friend or property manager with a key can check for leaks, reset a tripped breaker or let in the pool technician. Tell your community's security office the dates you will be away and who is authorised to enter.",
+        },
+      },
+      {
+        heading: "Clear the junk you have been ignoring",
+        content: [
+          "Summer travel is a natural deadline for the clear-out that keeps getting postponed: the broken treadmill in the garage, the spare-room mattress, the boxes on the roof terrace. Anything you clear now is something you will not come home to, and a lighter villa is easier for whoever is checking on it.",
+          "Book the collection for a week or more before the flight, not the morning you leave. Last-minute slots are harder to find in the weeks when schools break up, and a collection that slips by a day can leave items behind.",
+          "Do not leave unwanted furniture outside the gate or in the side passage and hope it disappears. Items left out are not reliably collected, the sun damages them within days, community management may issue a notice, and a pile on the driveway tells passers-by the villa is empty. The [Dubai Municipality bulky waste guide](/blog/dubai-municipality-bulky-waste-collection-explained) explains how the official route works if you want to use it.",
+        ],
+        image: {
+          src: "/images/blog/curbside-bulky-waste-pickup-villa-dubai.webp",
+          alt: "Worn beige sofa and a stained mattress left on the paved driveway outside a villa gate, next to a green 240-litre municipality wheelie bin",
+        },
+      },
+      {
+        heading: "Empty the kitchen of anything that can spoil",
+        content: [
+          "Eat down the fridge and freezer in the last fortnight. Then decide: leave it running with only long-life items inside, or empty it, clean it, switch it off and leave the doors propped open so mould cannot grow. A full freezer that loses power for a day while nobody is there is one of the worst things to come home to.",
+          "Go through the pantry. Opened flour, rice, pulses, cereal and pet food attract weevils and ants over a long, warm summer. Finish them, give them away or seal them in airtight containers. Take out every bin, wash it and leave it dry with the lid open.",
+          "Ask whoever checks the villa to run the taps and flush the toilets during each visit. Floor drains and unused traps can dry out over a long absence and let drain smells into the house.",
+        ],
+      },
+      {
+        heading: "Cut back the garden before the heat does it for you",
+        content: [
+          "Dry palm fronds, dead hedging and fallen branches are easy to ignore in spring. By midsummer they are tinder-dry, they shelter pests, and in some communities they will bring a notice from the community office. Have dead fronds cut and dead branches removed before you go, and take the cuttings away rather than stacking them against a wall. The [garden waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) sets out the routes.",
+          "Check the irrigation before you rely on it for three months. Run each zone, look for broken drippers and leaking joints, and make sure the controller has a backup battery if it has one. Group potted plants in shade on a drip line. If a palm already looks unwell, the [dead palm tree guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) explains what to check before you leave it.",
+        ],
+      },
+      {
+        heading: "Agree settings for the AC, water, gas and pool",
+        content: [
+          "Many owners leave the AC running at a higher setting rather than switching it off completely, to limit humidity, mould and heat damage to furniture and electronics. The right setting depends on the system, so ask your AC maintenance company, and book a service before you leave so a fault does not run unnoticed.",
+        ],
+        listItems: [
+          "Switch off and unplug electronics you will not need, and leave on only what must run, such as the fridge if you keep it on, the AC and the irrigation controller.",
+          "Turn off the water heater, unless the person checking the villa needs hot water.",
+          "Close the valve on any gas cylinder, and store spare cylinders as the [gas cylinder guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai) describes.",
+          "Keep the pool full and serviced; ask the pool company to keep weekly visits going rather than draining it.",
+          "Close internal water valves you do not need, without isolating the supply to the irrigation.",
+        ],
+      },
+      {
+        heading: "Leave the villa ready for an easy return",
+        content: [
+          "Before you lock up, walk every room and photograph it, including the garage, roof and store rooms. Note meter readings, check every window and door, and leave a short list for the person with the key: who maintains the AC, the pool and the garden, and where the main water valve and breakers are.",
+          "In [Arabian Ranches 2](/areas/arabian-ranches-2), many families leave at the same time when school ends, so book garden work and collections early. In [The Villa](/areas/the-villa), larger plots mean more palm and hedge work, so allow an extra day for the garden.",
+          "Our [villa clearance team](/services/villa-clearance-dubai) can clear the garage, spare rooms and unwanted furniture before you travel, and our [garden waste collection](/services/garden-waste-removal-dubai) can take fronds and cuttings on the same visit. [Send photos of what is leaving and your travel date](/contact), and we will confirm a fixed price and a slot before your flight.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "garden-waste-removal-dubai"],
+    relatedAreas: ["arabian-ranches-2", "the-villa"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai",
+    title: "How to Dispose of an Old Sauna and Steam Cabin in Dubai: Heater, Panels and Glass",
+    seoTitle: "How to Dispose of an Old Sauna or Steam Cabin in Dubai",
+    excerpt:
+      "How to dispose of an old sauna and steam cabin in Dubai: have the circuit isolated, dismantle in reverse order, tape the glass and route heater and timber.",
+    category: "Guides",
+    tags: ["Sauna", "Steam Cabin", "Bulky Item", "Bathroom", "Dubai"],
+    coverImage: "/images/blog/bathroom-fixture-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers in green polo shirts removing bathroom fittings, one wheeling a blanket-wrapped toilet on a hand truck and the other holding a basin pedestal in bubble wrap, beside a glass shower enclosure in a marble bathroom with protected floors",
+    publishedAt: "2026-11-21",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Sauna heaters and steam generators are often hardwired on a dedicated circuit; have an electrician isolate and terminate the supply before anything is dismantled.",
+      "Take the unit apart in the reverse order it went up: stones, heater and benches first, then roof, walls and floor; glass doors before panels on a steam cabin.",
+      "Tape tempered glass panels before lifting them, because a chipped edge can make the whole panel shatter.",
+      "Timber, heater, glass, acrylic and electronics each take a different route, so keep them in separate piles for the collection.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old sauna and steam cabin in Dubai",
+        content: [
+          "To dispose of an old sauna or steam cabin in Dubai, first have an electrician isolate the power and a plumber cap the water and drain if it is a steam unit. Let the heater and stones cool, then dismantle in reverse order: stones, heater and benches, then roof, walls and floor, or glass doors before panels. Tape any glass, and keep timber, metal, glass, acrylic and electronics apart for collection. Checked on 21/11/2026.",
+          "Home saunas and steam cabins are built to be assembled once. Sauna walls are heavy pre-made timber panels clipped or bolted together, and a steam cabin is a kit of tempered glass, acrylic and a steam generator sealed with silicone. Both are easier to take apart than they look, if the services are isolated first and the parts come out in the right order.",
+          "This guide covers indoor and garden saunas, infrared cabins and enclosed steam showers. Outdoor spas and Jacuzzis have their own [hot tub disposal guide](/blog/how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai), and ordinary shower screens, basins and toilets are covered in the [bathroom fixtures guide](/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai).",
+        ],
+        callout: {
+          title: "Isolation is a job for an electrician",
+          text: "A traditional sauna heater draws a heavy load and is normally wired on its own circuit. Switching it off at the control panel is not enough. A qualified electrician should isolate the circuit, disconnect the heater and make the cable end safe before a clearance crew touches the cabin.",
+        },
+      },
+      {
+        heading: "Work out which kind you have",
+        content: [
+          "A traditional sauna is a timber room with an electric heater and a basket of stones. An infrared sauna looks similar but has flat heating panels in the walls instead of a stone heater; smaller ones sometimes plug into an ordinary socket, larger ones are hardwired. A steam cabin is an enclosed shower with an acrylic tray, glass doors, a back panel with jets and controls, and a steam generator hidden behind or beneath it.",
+          "Check whether it is worth selling before it comes apart. A sauna in good condition, with the assembly manual and all the clips, can find a buyer who will dismantle and collect it. Cabins with cracked panels, rusted heaters, discoloured acrylic or missing parts are rarely worth the effort to rebuild.",
+        ],
+      },
+      {
+        heading: "Make it safe: power, water and the steam generator",
+        content: [
+          "Switch the unit off and leave the heater and stones to cool completely; sauna stones hold heat for a long time. Once the electrician has isolated the circuit, unplug or disconnect any lighting, speakers or control panels from their power supply.",
+          "On a steam cabin, close the water supply valve and have the plumber disconnect the feed and the waste, then cap both so nothing drips into the wall or floor. Drain the steam generator through its drain point into a bucket; it often holds scale and warm water. Leave the drain fitting open on a towel overnight before the unit is moved.",
+        ],
+      },
+      {
+        heading: "Take it apart in reverse order",
+        content: [
+          "In a sauna, lift out the stones first and put them in a sturdy bucket or crate; a full basket is far heavier than it looks. Unbolt the heater from its wall bracket, then remove benches, backrests and the duckboard floor. The roof panel normally comes off next, then the wall panels one at a time, starting with the door wall. Bag the screws, clips and brackets.",
+          "In a steam cabin, cut through the silicone with a sharp knife and lift off the doors and fixed glass panels first. Then remove the roof with its light and fan, the side panels and the back panel with its jets, and finally the tray. Two people should handle every glass panel.",
+          "Tempered glass can shatter suddenly if an edge or corner is knocked. Run tape across each panel in a cross pattern before lifting it, so that if it does fail the pieces stay together. The [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) explains how to wrap and carry broken glass safely.",
+        ],
+      },
+      {
+        heading: "What each part is made of and where it goes",
+        content: [
+          "Keep the parts in separate piles. Mixed loads take longer to sort and more of them end up as general waste.",
+        ],
+        listItems: [
+          "Wall, roof and bench timber: usually untreated softwood. The [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) covers reuse and recycling routes.",
+          "Insulation and foil vapour barrier from inside the walls: bag them with general waste. Wear gloves and a dust mask when handling mineral wool.",
+          "Heater, control unit, infrared panels, steam generator, lighting and speakers: electrical waste. The [small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) lists drop-off routes for the smaller parts.",
+          "Sauna stones: reusable as garden mulch or edging; otherwise they go with rubble, not the household bin.",
+          "Tempered glass doors and panels: not accepted with bottle and jar recycling. Keep them taped and wrapped.",
+          "Acrylic tray and panels: bulky mixed plastic, collected whole or in large pieces.",
+          "Taps, jets, hinges, brackets and the heater casing: scrap metal.",
+        ],
+        image: {
+          src: "/images/blog/hot-tub-material-sorting-dubai.webp",
+          alt: "Worker in green overalls checking a black pump beside a grey control box, coiled wiring and a digital control panel, with a white acrylic shell, white flexible hoses and a pallet of chrome fittings sorted on a warehouse floor",
+        },
+      },
+      {
+        heading: "Plan the route out of the house",
+        content: [
+          "Measure the largest panel and the glass doors against every doorway, turn and stair on the way out. Sauna wall panels are often taller than a standard internal door and need to be carried on edge. In an apartment, check that the longest piece fits the service lift, and book the lift for the collection.",
+          "Villa owners in [Al Barari](/areas/al-barari) and [Emirates Hills](/areas/emirates-hills) often have saunas in a basement gym or a pool house, so allow for stairs and garden paths when planning the carry. If the room is being refitted, clear it before the contractor starts so their crew is not working around stacked panels.",
+          "Our [bulky item collection team](/services/bulky-item-removal-dubai) takes dismantled saunas and steam cabins with the parts sorted, and our [villa clearance service](/services/villa-clearance-dubai) can clear the rest of the gym or pool house on the same visit. [Send photos of the unit and the route out](/contact), tell us whether the power and water are already isolated, and we will confirm a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["al-barari", "emirates-hills"],
+  },
+  {
     slug: "end-of-semester-clear-out-for-students-dubai",
     title: "End of Semester Clear Out for Students in Dubai: Shared Flats and Short Leases",
     seoTitle: "End of Semester Clear Out for Students in Dubai: A Plan",
@@ -1493,7 +1748,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To clear a villa that has been empty for months, begin with an authorised daylight inspection rather than immediate loading. Check access, power, water, odour, pest evidence and visible damage without disturbing suspect areas. Photograph every room, protect documents and valuables, obtain specialist release where needed, then sort approved contents in stages and finish with a documented property sweep. Checked on 13/11/2026.",
           "Time changes a clearance. Failed AC can leave textiles stale and timber distorted; a small leak can spread unseen behind furniture; food or standing water can attract pests; and an unwatered garden can add a large dry load. The contents may still belong to an owner, tenant, estate or insurer despite their condition.",
-          "This guide owns re-entry and staged clearance after prolonged vacancy. The [vacant-sale handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) retains the sale-contract inventory, while the [villa garage guide](/blog/how-to-clear-out-a-villa-garage-dubai) retains detailed garage zoning.",
+          "This guide owns re-entry and staged clearance after prolonged vacancy. The [vacant-sale handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) retains the sale-contract inventory, while the [villa garage guide](/blog/how-to-clear-out-a-villa-garage-dubai) retains detailed garage zoning. Owners about to travel can avoid much of this by following the [checklist for preparing a villa before a summer away](/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai).",
           "If the vacant property is now scheduled for replacement rather than occupation, use the [old-villa pre-demolition clearance plan](/blog/how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai) to separate loose contents, approved salvage and the contractor's strip-out scope.",
         ],
         callout: {
@@ -4881,7 +5136,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "How to dispose of an old hot tub in Dubai",
         content: [
           "To dispose of an old hot tub or Jacuzzi in Dubai, identify how it is installed, arrange safe isolation of electricity and fixed plumbing, drain it through the property-approved route, and measure the shell against every gate and turn. Keep pumps, controls and wiring together for assessment, then use an approved bulky-item route instead of breaking the tub beside a communal bin. Checked on 27/10/2026.",
-          "A freestanding spa can look like garden furniture, but it is closer to a small plant room wrapped around a heavy shell. Water remains in low pipe loops after the main drain opens, the insulated cover can be waterlogged, and an acrylic or composite body is difficult to grip without a lifting frame or trolley.",
+          "A freestanding spa can look like garden furniture, but it is closer to a small plant room wrapped around a heavy shell. Water remains in low pipe loops after the main drain opens, the insulated cover can be waterlogged, and an acrylic or composite body is difficult to grip without a lifting frame or trolley. Indoor saunas and enclosed steam showers are covered separately in the [sauna and steam cabin disposal guide](/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai).",
           "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists bulky household furniture and electrical appliances within its collection service, subject to applicant and location conditions, and excludes investment zones. A whole spa may need a separately agreed private collection because of its size, services and mixed construction, so confirm acceptance before dismantling anything.",
         ],
         callout: {
@@ -13597,7 +13852,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Ask your movers before the truck leaves. Many Dubai moving companies will take back their own cartons and wardrobe boxes, and some build it into the contract, but it usually has to be arranged rather than assumed. A collection two or three days after delivery is a common arrangement and removes the bulk of the problem in one visit.",
           "Good cartons are genuinely wanted by other people. Someone in your building or community is moving within the next month, and intact double-walled boxes, wardrobe cartons and the paper padding are worth offering. Say plainly how many you have, whether they are flat or assembled, and when they need to be gone.",
           "Keep a few for yourself. Five or six sturdy boxes are useful for seasonal storage, for the next move, and for holding the things you have not decided about yet. Keeping forty is not storage, it is postponement, and it turns into a clearance job of its own.",
-          "If you are still mid-move and items are going out as well as coming in, the [pre-move decluttering guide](/blog/how-to-declutter-before-moving-in-dubai) covers deciding what actually travels with you.",
+          "If you are still mid-move and items are going out as well as coming in, the [pre-move decluttering guide](/blog/how-to-declutter-before-moving-in-dubai) covers deciding what actually travels with you. If you are moving into a newly handed-over unit, the [new-build handover leftovers guide](/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai) covers the developer's packaging, spare tiles and snag debris.",
         ],
       },
       {
