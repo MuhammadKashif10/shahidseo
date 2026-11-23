@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-21**
+Last synchronized: **2026-11-23**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -213,10 +213,14 @@ Canonical implementation: `data/blog.ts`
 | 206 | `what to do with leftovers at a new build handover in dubai`              | Informational              | `/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai`                 | 2026-11-21 | Published |
 | 207 | `how to prepare a villa before leaving it empty for the summer`           | Informational              | `/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai`     | 2026-11-21 | Published |
 | 208 | `how to dispose of an old sauna and steam cabin in dubai`                 | Informational              | `/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai`                    | 2026-11-21 | Published |
+| 209 | `how to clear junk safely in dubai heat`                                  | Informational              | `/blog/how-to-clear-junk-safely-heat-dubai`                                     | 2026-11-23 | Published |
+| 210 | `how to dispose of an old display cabinet in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-display-cabinet-dubai`                          | 2026-11-23 | Published |
+| 211 | `what to do about junk dumped in your building corridor`                  | Informational              | `/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai`            | 2026-11-23 | Published |
 
 ## Current counts
 
-- Published: **208**
+- Published: **211**
+- Published on 2026-11-23: **3**
 - Published on 2026-11-21: **3**
 - Published on 2026-11-20: **3**
 - Published on 2026-11-19: **3**
@@ -257,9 +261,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **145**
-- Service-support queue written: **54 / 90**
-- Next approved priority: **Day 19 (23/11/2026): clearing junk safely in Dubai heat, old display cabinets, and junk dumped in a building corridor.**
+- Supplemental approved articles published: **148**
+- Service-support queue written: **57 / 90**
+- Next approved priority: **Day 20 (24/11/2026): clearing an overgrown villa garden, holding a moving sale, and old-item removal on new-furniture delivery day.**
+
+## Cannibalization notes for 2026-11-23 batch
+
+- The heat-safety guide owns the physical-work plan for a hot-weather clear-out: moving the carrying window, building a shaded route, hydration and cooling breaks, smaller trolley-assisted loads and heat-illness stop signs. The scheduling guide retains the broader day-and-time decision; the summer-empty-villa guide retains preparing a property before travel. Commercial intent stays with `/services/junk-removal-dubai`.
+- The display-cabinet guide owns freestanding glazed cabinets: condition checks, plug-in versus hardwired lighting, removing and transporting panes upright, anti-tip restraints and measuring the bare carcass. The TV-stand guide retains media equipment and low consoles; the mirror guide retains flat-glass handling generally. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The corridor-dumping guide owns an unknown person's abandoned items in a shared escape route: private documentation, immediate fire-route escalation, management authority, controlled removal and special-risk boundaries. The management-notice guide retains a resident responding to a notice about their own belongings; the illegal-dumping guide retains general legality and corrective routes. Commercial intent stays with `/services/rubbish-removal-dubai`.
+- Each article links to its supported service, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the scheduling, TV-stand and building-management-notice guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-23.md`.
 
 ## Cannibalization notes for 2026-11-21 batch
 

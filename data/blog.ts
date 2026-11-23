@@ -51,8 +51,244 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-clear-junk-safely-heat-dubai",
+    title: "How to Clear Junk Safely in Dubai Heat: Timing, Hydration and Heavy Lifts",
+    seoTitle: "How to Clear Junk Safely in Dubai Heat: Summer Guide",
+    excerpt:
+      "How to clear junk safely in Dubai heat: work early, stage items in shade, drink regularly, shorten carries and know when heat symptoms mean stop.",
+    category: "Guides",
+    tags: ["Summer Heat", "Safe Lifting", "Home Clear-Out", "Hydration", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-junk-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Clearance worker carrying a folding wooden chair up a truck ramp outside a Dubai villa under a bright blue sky",
+    publishedAt: "2026-11-23",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Do the carrying at the coolest practical time, and complete sorting and dismantling indoors before the truck arrives.",
+      "Keep people, drinking water and staged items in shade; a closed vehicle or metal container becomes much hotter than the surrounding air.",
+      "Use trolleys, smaller loads and a clear route instead of trying to finish faster with one heavy carry.",
+      "Headache, dizziness, nausea, cramps or unusual tiredness mean stop and cool down; confusion, collapse or abnormal response is an emergency.",
+    ],
+    sections: [
+      {
+        heading: "How to clear junk safely in Dubai heat",
+        content: [
+          "To clear junk safely in Dubai heat, separate the thinking from the carrying. Sort, empty drawers and dismantle furniture in air conditioning the day before. Book the lift, truck and crew for the coolest practical window, stage items in shade, keep water within reach and use a trolley for the long part of the route. Stop as soon as anyone develops heat symptoms; finishing the load is never more important than the person carrying it. Checked on 23/11/2026.",
+          "A clear-out becomes risky when three things happen together: heavy effort, direct sun and a deadline. A villa garage can feel manageable at 8 am and turn punishing by midday. In a tower, the apartment may be cool but the loading bay can be hot, humid and several trolley trips away.",
+          "This is a practical plan for a household clear-out, not medical advice. The [World Health Organization's current hot-weather guidance](https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat) recommends avoiding strenuous activity during the hottest part of the day, staying in shade and drinking water regularly. People with health conditions or medicines affected by heat should ask a clinician what is safe for them before doing strenuous work.",
+        ],
+        callout: {
+          title: "Heat symptoms end the job immediately",
+          text: "Move the person to shade or air conditioning if they develop headache, dizziness, nausea, cramps or unusual tiredness. Confusion, collapse, seizures or not responding normally are danger signs: call emergency help and cool the person while waiting.",
+        },
+      },
+      {
+        heading: "Move the work out of the hottest hours",
+        content: [
+          "Choose the collection window first, then plan backwards. The [guide to the best times for junk removal](/blog/best-times-to-schedule-junk-removal-in-dubai) covers traffic, building slots and seasonal demand; in summer, heat becomes another constraint. Early morning is often the useful window, but the building's contractor hours and service-lift rules still control a tower job.",
+          "Do not spend that cool window deciding what stays. Photograph and quote the load in advance, mark the items, empty every cabinet and remove detachable shelves indoors. The truck should arrive to a ready route, not a family still sorting the store room.",
+          "Avoid staging items in direct sun. Dark timber, metal frames, tools and trolley handles heat quickly, while electronics, aerosols and batteries should not sit in a hot vehicle. Keep the load inside the property, garage shade or approved loading area until it can move straight onto the truck.",
+        ],
+      },
+      {
+        heading: "Build a cool route from room to truck",
+        content: [
+          "Walk the route before the first lift. Remove shoes, toys, hoses and loose packing; prop only ordinary internal doors that are safe to hold, and never wedge a fire door. Protect hot outdoor paving with a clear trolley lane so nobody has to step around obstacles while carrying a blocked view.",
+          "Shorten the exposed part of the journey. In a villa, a shaded garage can be the transfer point between the air-conditioned house and the vehicle. In a tower, take full trolley loads through the service lift rather than carrying single items repeatedly across an open loading bay. The [pickup-preparation checklist](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) helps get access, parking and item photos settled before the day.",
+        ],
+        image: {
+          src: "/images/blog/urgent-junk-pickup-preparation-dubai.webp",
+          alt: "Wrapped furniture and sealed boxes staged inside a Dubai apartment while a resident photographs the prepared load",
+        },
+      },
+      {
+        heading: "Hydrate before thirst becomes the plan",
+        content: [
+          "Put drinking water in the work area before anyone starts. Take regular drinks and planned cooling breaks rather than waiting for the strongest person to ask. Light, loose clothing, a hat for outdoor work and sunscreen reduce exposure; gloves still matter because hot metal edges and broken furniture do not become safer in summer.",
+          "The [UAE Ministry of Health and Prevention](https://mohap.gov.ae/en/w/if-you-notice-the-following-signs-you-are-suffering-from-heat-exhaustion) runs heat-exhaustion awareness campaigns focused on prevention and early recognition. Water is the default drink. Someone sweating heavily for a long period may need individual medical advice about electrolytes, especially if they have kidney, heart or other health conditions; do not improvise a one-size-fits-all salt rule.",
+          "Never leave a child, older person, pet or resting worker in a parked vehicle. The cab is not a cooling area unless the air conditioning is running and a responsible person is present.",
+        ],
+      },
+      {
+        heading: "Make every lift smaller and more predictable",
+        content: [
+          "Heat makes fatigue arrive earlier, and fatigue makes grip, balance and judgement worse. Empty drawers and shelves. Remove cabinet doors, sofa feet and bed slats where doing so is straightforward. Split books, tiles and tools across several small boxes instead of creating one dense carton that looks harmless until it leaves the floor.",
+          "Use a flat trolley or sack truck for the distance and two people for awkward pieces. If an item has no safe handhold, blocks the carrier's view or must be tilted over a stair rail, stop and change the method. The goal is not to prove it can be lifted; it is to move it without a dropped item, damaged floor or injured person.",
+          "In [Arabian Ranches](/areas/arabian-ranches), the long carry from an upstairs room to a driveway can expose the crew repeatedly, so a garage transfer point helps. In [Business Bay](/areas/business-bay), coordinate the service lift and basement loading bay so nobody waits with a loaded trolley in an uncooled service corridor.",
+        ],
+      },
+      {
+        heading: "Know when a DIY clear-out has become a crew job",
+        content: [
+          "A few labelled boxes moved before breakfast are different from a garage of furniture, appliances and dense renovation leftovers. Hire help when the route includes stairs, the work cannot fit into a cool window, items need dismantling, or the only available helpers are not used to heavy carrying.",
+          "Our [junk removal team](/services/junk-removal-dubai) can quote from photos, bring trolleys and plan the load around the property access. [Send the item photos, floor, lift or gate rules and preferred morning window](/contact), and we will confirm a fixed price before the visit.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "business-bay"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-display-cabinet-dubai",
+    title: "How to Dispose of an Old Display Cabinet in Dubai: Glass, Lights and Safe Lifting",
+    seoTitle: "How to Dispose of an Old Display Cabinet in Dubai Safely",
+    excerpt:
+      "How to dispose of an old display cabinet in Dubai: empty it, isolate lights, remove and wrap glass, release wall restraints and measure the lift route.",
+    category: "Guides",
+    tags: ["Display Cabinet", "Glass Furniture", "Furniture Disposal", "Safe Lifting", "Dubai"],
+    coverImage: "/images/blog/old-tv-stand-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers checking an empty wooden media cabinet with its drawers removed in a Dubai apartment living room",
+    publishedAt: "2026-11-23",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Empty the cabinet completely and photograph the shelf layout, lights and fixings before dismantling.",
+      "Remove loose glass shelves and doors first; wrap each pane separately and keep it upright during transport.",
+      "Unplug cabinet lighting, but use an electrician if the unit is hardwired into the property.",
+      "Release wall restraints only when two people are controlling the cabinet, then measure the bare carcass against every door, turn and lift.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old display cabinet in Dubai",
+        content: [
+          "To dispose of an old display cabinet in Dubai, remove every ornament, drawer and loose shelf before the cabinet moves. Unplug built-in lights, photograph and label the hardware, take out glass shelves and removable glass doors, and wrap each pane separately. With two people controlling the empty carcass, release its wall restraint, measure the route and either pass the cabinet on intact or book furniture collection with the glass declared. Checked on 23/11/2026.",
+          "A display cabinet is deceptive. Once empty it may look like an ordinary wardrobe, but its tall centre of gravity, narrow feet and multiple panes make it far less forgiving. A shelf can slide out when the unit tilts; a glass door can swing into a wall; an unrestrained cabinet can tip while its wall strap is being removed.",
+          "This guide covers freestanding curio, china and trophy cabinets. A fitted wall unit belongs with joinery and may require a carpenter, while an aquarium cabinet should follow the [fish tank disposal guide](/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai) because water damage and tank handling change the job.",
+        ],
+        callout: {
+          title: "Glass leaves before the cabinet moves",
+          text: "Do not tape loose shelves inside and hope they stay put. Lift each shelf out, pad its edges, wrap it on its own and transport it upright in a restrained rack or between rigid protection.",
+        },
+      },
+      {
+        heading: "Decide whether the cabinet is worth passing on",
+        content: [
+          "A solid cabinet with complete glass, working hinges and no structural movement can be sold, donated or moved to another room. Photograph it closed and open, then show the rear panel, feet, shelf supports and any chips. Give exact height, width and depth, and state whether the buyer must dismantle and collect it.",
+          "Reject reuse when the carcass rocks because joints have failed, the particleboard base is swollen, a pane is cracked, or door hinges are pulling out. A missing shelf is not always fatal, but a replacement must be the correct type and thickness; ordinary window glass is not a safe improvised shelf.",
+          "Before promising a donation, confirm acceptance and collection. The [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) explains why large glazed pieces are often judged on condition, access and immediate demand rather than age alone.",
+        ],
+      },
+      {
+        heading: "Empty, photograph and isolate the lighting",
+        content: [
+          "Remove contents from the top down so the cabinet does not become top-heavy. Check behind drawers and along the plinth for keys, shelf pins and small valuables. Photograph the shelf heights and hinge arrangement before taking anything apart, then put shelf supports, keys and screws in a sealed pouch.",
+          "If the cabinet has plug-in LED or halogen lighting, switch it off, unplug it and secure the cable. Remove loose transformers and glass lamp covers. Do not cut a cable to make the unit easier to carry. If the lighting is hardwired into a wall or fused connection, have a competent electrician isolate and terminate it before the removal crew starts.",
+        ],
+      },
+      {
+        heading: "Remove and protect every glass component",
+        content: [
+          "Wear suitable gloves and clear a padded table or floor area. Lift loose shelves with one person at each end, keeping them level until they are free of the supports. Remove glass doors only if the hinges are designed to release and the door can be supported throughout; otherwise leave that step to a furniture crew familiar with glazed cabinets.",
+          "Pad edges with card, wrap each pane separately and keep the pieces upright. Do not stack glass shelves flat under boxes, where a small point load can break the whole pile. Mark the package as glass without relying on the label as protection. The [mirror and flat-glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers what to do if a pane is already cracked.",
+        ],
+        image: {
+          src: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+          alt: "Wrapped mirror standing upright beside a padded service lift while a worker measures the lift opening and a resident photographs the load",
+        },
+      },
+      {
+        heading: "Release the restraint and test the route",
+        content: [
+          "Many tall cabinets have an anti-tip strap or metal bracket fixed to the wall. Keep two people controlling the cabinet while a suitable person releases that restraint; never detach it first and then leave the unit standing. If the cabinet is fixed into a joinery run, cornice or wall panel, stop and identify whether it is actually part of the property.",
+          "Measure the empty carcass, not the decorative cornice alone. Compare its height, width, depth and diagonal with the apartment door, corridor turn, lift entrance and lift cab. The [door and lift measuring guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows why a piece that clears a doorway can still fail at the next corner.",
+          "In [Downtown Dubai](/areas/downtown-dubai), reserve the service lift and protect polished common-area floors before the cabinet leaves the unit. In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), confirm the correct cluster loading point and contractor process rather than wheeling glass into the lobby and asking on arrival.",
+        ],
+      },
+      {
+        heading: "Route timber, glass, metal and lights separately",
+        content: [
+          "A failed display cabinet is a mixed item. Timber or engineered-board carcasses follow the furniture route; intact removable glass stays protected for reuse or specialist handling; hinges and brackets are metal; plug-in lights, transformers and switches are electrical waste. Do not smash the cabinet to make it fit a communal bin.",
+          "Our [furniture removal service](/services/furniture-removal-dubai) can collect the cabinet, wrapped glass and declared lighting components in one booked visit. [Send front, side and rear photos plus the cabinet dimensions and access route](/contact), and we will confirm the scope and fixed price before arrival.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-lake-towers"],
+  },
+  {
+    slug: "what-to-do-about-junk-dumped-in-your-building-corridor-dubai",
+    title: "What to Do About Junk Dumped in Your Building Corridor in Dubai",
+    seoTitle: "Junk Dumped in a Building Corridor: Dubai Action Guide",
+    excerpt:
+      "What to do about junk dumped in your building corridor: keep the exit clear, document it, notify management and let the authorised party arrange removal.",
+    category: "Guides",
+    tags: ["Building Corridor", "Dumped Junk", "Fire Safety", "Building Management", "Dubai"],
+    coverImage: "/images/blog/illegal-furniture-dumping-dubai-hero.webp",
+    coverImageAlt:
+      "Building security officer showing a resident an old armchair left beside a communal waste-room entrance in Dubai",
+    publishedAt: "2026-11-23",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Treat anything narrowing an escape route, blocking a fire door or obstructing fire equipment as urgent and notify security immediately.",
+      "Photograph the location and contents without opening bags, searching for an owner or posting identifying accusations.",
+      "Building management should check CCTV, notices and contractor access, then arrange an authorised collection if the owner does not remove it.",
+      "Do not drag unknown items into another corridor, bin room, lift lobby or outside pavement; that only moves the obstruction and may spread a hazard.",
+    ],
+    sections: [
+      {
+        heading: "What to do about junk dumped in your building corridor",
+        content: [
+          "If junk has been dumped in your building corridor, do not open bags or move the pile into another shared area. Photograph the items and their exact location, then notify security or building management with the floor, time noticed and whether any exit, stair door, fire extinguisher, hose cabinet or access panel is obstructed. If the route is immediately unsafe, call the security desk rather than waiting for an email response. Checked on 23/11/2026.",
+          "A chair and two cartons can look like a minor housekeeping problem. In a shared corridor they can narrow the escape path, stop a fire door closing, trip someone in smoke or prevent a wheelchair or stretcher passing. They may also contain broken glass, leaking liquids, batteries or pests that are not visible from outside.",
+          "Dubai Civil Defence's [emergency-planning guidance](https://www.dcd.gov.ae/portal/eng/ANNEXUREB2EMERGENCYEVACUATION.pdf) says corridors and stairways should be kept clear of storage and waste material. That is why the first question is not who owns the pile; it is whether people can leave safely.",
+        ],
+        callout: {
+          title: "Escalate an obstructed escape route now",
+          text: "Call building security immediately if dumped items narrow the usable corridor, block a stair or final exit, hold a fire door open, cover fire equipment or create a visible leak, smell, smoke or heat. Do not investigate a suspicious item yourself.",
+        },
+      },
+      {
+        heading: "Record the problem without turning it into a dispute",
+        content: [
+          "Take one wide photo that shows the corridor and one closer photo that shows the items, without photographing inside a neighbour's home. Note the date, approximate time and floor. Tell management whether the pile was already there when you arrived; avoid guessing which resident or contractor left it.",
+          "Do not open boxes, search bags for names or publish accusations in a resident group. A shipping label may be old, a contractor may have moved the wrong item, and the person pictured on CCTV may not own the contents. Send the evidence privately to the party responsible for the common area.",
+          "If you have already received a notice about your own belongings, use the [building-management removal notice guide](/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai) instead. That article covers deadlines, ownership and arranging your collection; this one covers abandoned items whose owner is unknown.",
+        ],
+      },
+      {
+        heading: "Let management identify and control the removal",
+        content: [
+          "Building management can check recent move permits, delivery records, cleaning and maintenance work, contractor access and CCTV under its own privacy procedures. It can issue a resident notice, contact a likely owner and set a short removal deadline while keeping a record of the steps taken.",
+          "If nobody claims the items, management or the owners' association should appoint the collection route. The contractor needs authority to remove the specified items, access to the service lift and loading point, and a contact who can sign off the cleared area. A resident should not order removal of someone else's property without that authority.",
+        ],
+        image: {
+          src: "/images/blog/scheduled-service-lift-pickup-dubai.webp",
+          alt: "Two workers wheeling a blanket-wrapped cabinet from a padded service lift toward a truck while a building supervisor checks the load",
+        },
+      },
+      {
+        heading: "Do not solve one obstruction by creating another",
+        content: [
+          "Dragging the pile into the stairwell, lift lobby, chute room or car park does not fix it. Those spaces have their own access and fire-safety purpose, and an unknown bag can leak or spread pests along the route. Do not place furniture beside communal bins unless management has given a specific approved set-out point and collection time.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and appliance disposal with eligibility and location conditions. Managed developments and investment zones may use a separate building or community contractor, so management should verify the route for the address instead of assuming an unbooked pile will be collected.",
+          "The [Dubai bulky-waste collection guide](/blog/dubai-municipality-bulky-waste-collection-explained) explains the household route, while the [illegal-dumping guide](/blog/dubai-illegal-dumping-laws-and-fines-guide) covers why leaving items in an unapproved place is not an acceptable handover method.",
+        ],
+      },
+      {
+        heading: "Handle special risks separately",
+        content: [
+          "Tell security immediately about leaking containers, chemical smells, warm or swollen batteries, needles, broken glass, food waste, pest activity or anything that could be hazardous. Keep people away and let management call the appropriate specialist. A general furniture crew should not be asked to identify an unknown chemical or handle medical sharps.",
+          "If there is smoke, fire, a strong gas smell or a suspicious package, move away and follow the building's emergency procedure. Do not use a phone beside a suspected gas leak, and do not move the item to inspect underneath it.",
+        ],
+      },
+      {
+        heading: "Arrange a documented corridor clearance",
+        content: [
+          "For an ordinary load of abandoned furniture, cartons and bagged household rubbish, our [rubbish removal service](/services/rubbish-removal-dubai) can attend on the building's written instruction. In [Jumeirah Village Circle](/areas/jumeirah-village-circle) and [Business Bay](/areas/business-bay), access rules vary by property, so the authorised contact should provide the service-lift slot, loading point and contractor requirements.",
+          "[Send management-authorised photos and the building access details](/contact) for a fixed quote. We will confirm what the ordinary load covers, flag anything needing a specialist and provide completion photos so management can close the report.",
+        ],
+      },
+    ],
+    relatedServices: ["rubbish-removal-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "business-bay"],
+  },
+  {
     slug: "what-to-do-with-leftovers-at-a-new-build-handover-dubai",
-    title: "What to Do With Leftovers at a New Build Handover in Dubai: Packaging, Offcuts and Snag Debris",
+    title:
+      "What to Do With Leftovers at a New Build Handover in Dubai: Packaging, Offcuts and Snag Debris",
     seoTitle: "What to Do With New Build Handover Leftovers in Dubai",
     excerpt:
       "What to do with leftovers at a new build handover in Dubai: keep spare tiles and paint, make the developer clear snag debris, then stage the rest for one pickup.",
@@ -1159,7 +1395,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "When building management asks you to remove items in Dubai, confirm the exact objects, location, deadline and rule in writing. Photograph them where they stand, verify ownership, choose whether each will return inside the unit or leave through an approved collection, then book the service route and provide any contractor documents. Send completion evidence to management before the deadline. Checked on 17/11/2026.",
           "Notices commonly concern furniture or boxes on a balcony, shoes and bicycles in a corridor, cupboards in a parking bay, or bulky items left beside a waste room. The fastest response is a controlled one. Moving the object from one shared corner to another may make the breach worse and leaves no proof that it was properly resolved.",
-          "This guide owns the response to a notice about your identified items. The [waste-disposal rules guide](/blog/dubai-municipality-waste-disposal-rules-and-regulations) retains the wider separation and collection framework, while the [junk-without-a-car guide](/blog/how-to-get-rid-of-junk-without-a-car-dubai) compares practical routes when you cannot transport the load yourself.",
+          "This guide owns the response to a notice about your identified items. If the owner is unknown, use the separate guide to [junk dumped in a building corridor](/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai), which starts with escape-route safety and management authority. The [waste-disposal rules guide](/blog/dubai-municipality-waste-disposal-rules-and-regulations) retains the wider separation and collection framework, while the [junk-without-a-car guide](/blog/how-to-get-rid-of-junk-without-a-car-dubai) compares practical routes when you cannot transport the load yourself.",
         ],
         callout: {
           title: "Do not dispose of an item whose ownership is unclear",
@@ -5692,7 +5928,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Remove shelves and dismantle only when necessary",
         content: [
-          "Lift adjustable wooden shelves away and tape their support pins into a small bag. A glass shelf should be lifted with two hands, wrapped on both faces and given rigid protection along every edge. Carry it upright in a padded rack or between firm boards; stacking it flat beneath other furniture creates concentrated loads it was not designed to take.",
+          "Lift adjustable wooden shelves away and tape their support pins into a small bag. A glass shelf should be lifted with two hands, wrapped on both faces and given rigid protection along every edge. Carry it upright in a padded rack or between firm boards; stacking it flat beneath other furniture creates concentrated loads it was not designed to take. For a tall glazed unit with lights and an anti-tip restraint, follow the [display-cabinet disposal guide](/blog/how-to-dispose-of-an-old-display-cabinet-dubai) before releasing it from the wall.",
           "For an intact flat-pack unit, remove drawers, doors, feet or a detachable top only when the exit route demands it. Mark panels discreetly and photograph each connector before undoing it. Cam locks and dowels in particleboard may not grip a second time, so unnecessary dismantling can turn reusable furniture into waste.",
           "If glass is already chipped or broken, isolate the area and use a rigid container rather than a thin sack. The [mirror and flat-glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers protective handling and why furniture glass does not belong in a bottle bank.",
         ],
@@ -10979,7 +11215,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Morning is best for heat-exposed villa and garden work",
         content: [
-          "Outdoor sorting, garage clearing, and garden loading are physically harder once the driveway and stored items have heated up. An early permitted window gives the crew better working conditions and reduces the time furniture, electronics, and reusable goods sit in direct sun. It also leaves daylight to resolve an unexpected second load.",
+          "Outdoor sorting, garage clearing, and garden loading are physically harder once the driveway and stored items have heated up. An early permitted window gives the crew better working conditions and reduces the time furniture, electronics, and reusable goods sit in direct sun. It also leaves daylight to resolve an unexpected second load. The [Dubai heat clear-out guide](/blog/how-to-clear-junk-safely-heat-dubai) covers hydration, shade, trolley routes and the symptoms that mean work must stop.",
           "For a villa in [Dubai Hills Estate](/areas/dubai-hills-estate), prepare the gate entry and parking position the previous day, then keep the route from garage or garden clear. The [garden-waste team](/services/garden-waste-removal-dubai) can estimate branches, planters, and outdoor pieces from photos so the morning slot has the right vehicle and crew.",
         ],
       },

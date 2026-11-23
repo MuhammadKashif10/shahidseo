@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-21**
+Last synchronized: **2026-11-23**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -70,9 +70,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       53 |  18 | 21/11/2026   | `what to do with leftovers at a new build handover in dubai`        | `/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai`             | `/services/junk-removal-dubai`          | Developer packaging, offcuts and snagging debris after taking keys                     | Written |
 |       54 |  18 | 21/11/2026   | `how to prepare a villa before leaving it empty for the summer`     | `/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai` | `/services/villa-clearance-dubai`       | Clearing perishables, junk and garden risks before travel                              | Written |
 |       55 |  18 | 21/11/2026   | `how to dispose of an old sauna and steam cabin in dubai`           | `/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai`                | `/services/bulky-item-removal-dubai`    | Electrical isolation, panels, heaters and glass                                        | Written |
-|       56 |  19 | 23/11/2026   | `how to clear junk safely in dubai heat`                            | `/blog/how-to-clear-junk-safely-heat-dubai`                                 | `/services/junk-removal-dubai`          | DIY clear-outs: timing, hydration, heavy lifts, hot vehicles                           | Planned |
-|       57 |  19 | 23/11/2026   | `how to dispose of an old display cabinet in dubai`                 | `/blog/how-to-dispose-of-an-old-display-cabinet-dubai`                      | `/services/furniture-removal-dubai`     | Glass shelves, lighting, wall fixings and safe transport                               | Planned |
-|       58 |  19 | 23/11/2026   | `what to do about junk dumped in your building corridor`            | `/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai`        | `/services/rubbish-removal-dubai`       | Reporting, building management and keeping exits clear                                 | Planned |
+|       56 |  19 | 23/11/2026   | `how to clear junk safely in dubai heat`                            | `/blog/how-to-clear-junk-safely-heat-dubai`                                 | `/services/junk-removal-dubai`          | DIY clear-outs: timing, hydration, heavy lifts, hot vehicles                           | Written |
+|       57 |  19 | 23/11/2026   | `how to dispose of an old display cabinet in dubai`                 | `/blog/how-to-dispose-of-an-old-display-cabinet-dubai`                      | `/services/furniture-removal-dubai`     | Glass shelves, lighting, wall fixings and safe transport                               | Written |
+|       58 |  19 | 23/11/2026   | `what to do about junk dumped in your building corridor`            | `/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai`        | `/services/rubbish-removal-dubai`       | Reporting, building management and keeping exits clear                                 | Written |
 |       59 |  20 | 24/11/2026   | `how to clear an overgrown villa garden in dubai`                   | `/blog/how-to-clear-an-overgrown-villa-garden-dubai`                        | `/services/garden-waste-removal-dubai`  | Safe order of work, hidden hazards, bulk green waste                                   | Planned |
 |       60 |  20 | 24/11/2026   | `how to hold a moving sale in dubai`                                | `/blog/how-to-hold-a-moving-sale-dubai`                                     | `/services/villa-clearance-dubai`       | Community rules, pricing, what to do with what does not sell                           | Planned |
 |       61 |  20 | 24/11/2026   | `old item removal on new furniture delivery day`                    | `/blog/old-item-removal-on-new-furniture-delivery-day-dubai`                | `/services/same-day-junk-removal-dubai` | Coordinating removal of the old sofa, bed or fridge as the new one arrives             | Planned |
@@ -112,9 +112,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **145**
-- Total published articles: **208**
-- Service-support queue written: **54 / 90**
+- Supplemental approved articles published: **148**
+- Total published articles: **211**
+- Service-support queue written: **57 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**
