@@ -51,6 +51,298 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-clear-an-overgrown-villa-garden-dubai",
+    title: "How to Clear an Overgrown Villa Garden in Dubai: A Safe Order of Work",
+    seoTitle: "How to Clear an Overgrown Villa Garden in Dubai Safely",
+    excerpt:
+      "How to clear an overgrown villa garden in Dubai: check for hidden hazards, cut from the gate inward, sort bulk green waste and size the collection properly.",
+    category: "Guides",
+    tags: ["Overgrown Garden", "Villa Gardens", "Green Waste", "Garden Safety", "Dubai"],
+    coverImage: "/images/blog/old-irrigation-pipes-drippers-dubai-hero.webp",
+    coverImageAlt:
+      "Gardener kneeling in a Dubai villa flower bed and lifting old drip irrigation line clear of bougainvillea stems",
+    publishedAt: "2026-11-24",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Inspect from the edge first: hidden manholes, live garden lighting, irrigation lines, wasps or a neglected pool decide how the job starts.",
+      "Cut a clear path from the gate inward, then work in strips, so cut material always has a way out.",
+      "Lower tall growth in stages and stop before mature trees, palms and anything overhead; those need a tree contractor.",
+      "Sort as you cut and photograph the first cleared strip, because an overgrown plot produces far more volume than it appears to hold.",
+    ],
+    sections: [
+      {
+        heading: "How to clear an overgrown villa garden in Dubai",
+        content: [
+          "To clear an overgrown villa garden in Dubai, inspect it from the edges before cutting anything, switch off garden lighting and irrigation, then open one path from the gate inward. Reduce tall growth in layers, lift out hidden objects as they appear, keep green waste apart from soil and hardware, and leave mature trees to a tree contractor. Arrange the bulk collection once the first section shows the true volume. Checked on 24/11/2026.",
+          "The mistake is treating it as a large version of weekly gardening. In a garden nobody has managed for a year or more, you cannot see the ground. A coiled hose, a missing drain cover, a broken bottle or a step in the paving is invisible until a boot or a strimmer finds it.",
+          "This guide covers a plot that has been neglected. If the beds are basically healthy and only tired after summer, the [pre-planting clean-up sequence](/blog/garden-clean-up-before-the-planting-season-dubai) is the lighter job you need.",
+        ],
+        callout: {
+          title: "Leave the wildlife an exit",
+          text: "If you see a snake, scorpion, bee colony or wasp nest, step back and stop work in that area. Do not try to kill or catch it. Any venomous bite or sting is a medical emergency, so seek help immediately.",
+        },
+      },
+      {
+        heading: "Find the hidden hazards before the first cut",
+        content: [
+          "Walk the boundary in daylight, wearing closed boots, long trousers and gloves. Look for drain and irrigation covers, light fittings, cables, gas or pool pipework, AC condensers behind shrubs and any change in level. Mark each one with a cane and bright tape. Where you cannot see the ground, probe ahead with a long stick rather than your foot.",
+          "Turn off the irrigation controller and isolate the garden lighting circuit. If cables are cut, taped together or disappearing into soil, have an electrician make them safe before anyone uses a metal tool. A pool or pond hidden by growth needs a barrier and its own plan, particularly if the water has gone green and mosquitoes are breeding.",
+          "Wildlife advice for the UAE is calm rather than dramatic. An expert quoted by [The National in July 2026](https://www.thenationalnews.com/lifestyle/home-garden/2026/07/10/snakes-scorpions-and-spiders-what-to-do-if-you-encounter-them-in-the-uae/) recommends watching snakes and scorpions from a safe distance and letting them move on, and contacting the relevant municipality or environmental authority if one cannot leave safely. Dubai Municipality lists 800900 on its [public health pest control page](https://www.dm.gov.ae/health-and-safety/public-health/). In a managed community, ask the management office which pest contractor it uses.",
+        ],
+        listItems: [
+          "Ground: open drains, loose paving, broken glass, nails in old timber, abandoned pots.",
+          "Services: drip lines, valve boxes, garden lights, pool pipes, AC units and their cables.",
+          "Living hazards: nests, standing water, thorny bougainvillea, sap that irritates skin.",
+          "Overhead: dead fronds, cracked limbs and branches resting on a wall, roof or cable.",
+        ],
+      },
+      {
+        heading: "Get the right permission before removing anything large",
+        content: [
+          "A tenant may be responsible for keeping the garden tidy without having the right to remove a hedge, pergola or established tree. Send the landlord photos and a short list: what will be cut back, what will be removed, what is staying. Wait for a written answer on anything that cannot grow back by next year.",
+          "Owners should check community rules on trees, boundary planting and contractor working hours. Growth shared with the next plot needs a conversation first. Cutting a hedge from your side can open a view straight into a neighbour's majlis or leave half of it unsupported.",
+        ],
+      },
+      {
+        heading: "Cut from the gate inward, one layer at a time",
+        content: [
+          "Start at the exit, not at the worst corner. Clear a path wide enough for a loaded barrow from the gate to the house, then keep it clear for the rest of the job. A crew that begins at the back wall ends up climbing over its own cuttings.",
+          "Work in strips roughly two metres wide. Take the top growth down to knee height, rake it out, look at what the cut has revealed and only then go lower. That pause between passes is where most buried hoses, toys, edging and cable get spotted. Wear eye protection with any powered cutter, and keep other people well outside its throwing distance.",
+          "Dry material comes out before green. Dead grass, fronds and leaf litter catch easily, so keep cigarettes, hot tools and barbecues away and never burn the pile. Thorny bougainvillea should be cut into short lengths at the plant; dragging a three-metre stem through a side passage is how forearms and paintwork both get scratched.",
+          "Stop at anything that needs a ladder, a chainsaw or a climber. Leaning trunks and palms belong to a tree contractor; the [dead palm guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) explains the pest and felling checks, and the [tree stump guide](/blog/how-to-get-rid-of-a-tree-stump-dubai) covers what remains in the ground.",
+        ],
+      },
+      {
+        heading: "Sort bulk green waste while you can still see it",
+        content: [
+          "Set out separate places for leaves and soft cuttings, woody branches, palm fronds, soil and stones, and non-plant objects. Overgrown gardens always produce that last group: rotten trellis, perished hose, cushions, a rusted barbecue, sometimes a whole broken bench. Pulled out early, it stays easy to identify. Buried in a sack of clippings, it contaminates the whole load.",
+          "Shake the soil from roots before they go on the pile. A clump of grass with its root ball can weigh several times what the leaves do, and that weight decides how many people and how much vehicle the job needs. The [garden waste sorting guide](/blog/how-to-dispose-of-garden-waste-in-dubai) goes deeper into each stream.",
+          "Keep plants with suspected pests or disease in their own bags, and say if the garden was recently sprayed.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Tubs of brown leaves and green clippings in front of bundled branches and palm fronds while a gardener measures the opening of a villa gate",
+        },
+      },
+      {
+        heading: "Work out the volume from the first strip",
+        content: [
+          "Guessing from the patio rarely works, because standing growth is springy and full of air while a cut heap has its own awkward bulk. Finish one strip, pile everything it produced and photograph it with a barrow or a person beside it. Multiply by the number of strips left, then add a margin for the shrubs against the wall.",
+          "Do not assume the household bin round will take it. [Emaar's resident FAQ for Arabian Ranches II](https://communities.emaar.com/en/page-categories/lifestyle/faqs/page/14), for example, makes the gardener responsible for landscaping waste and accepts only small, neatly bundled quantities placed inside the bin. Other communities set their own terms, so ask before the first bag reaches the gate.",
+          "Nothing should wait on the verge or pavement. If the plot will take more than a day, book staged collections and hold each pile on your own hard standing, clear of the neighbour's access.",
+        ],
+      },
+      {
+        heading: "Finish the clearance so it does not grow straight back",
+        content: [
+          "Once the ground is visible, run each irrigation zone for a minute and note leaks, then shut off zones with nothing left to water. Feeding bare soil is an open invitation to weeds. Check drains, refit missing covers and photograph walls, paving and fixtures that were hidden, especially if a landlord or buyer will inspect.",
+          "In [Mudon](/areas/mudon), a terraced row may mean everything leaves through a narrow passage or the garage, so bundle lengths should be set by that route. At [The Villa](/areas/the-villa), larger plots make it worth loading from more than one point. If the house has also been standing empty, plan the two together with the [long-empty villa guide](/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai).",
+          "Our [garden clearance and green waste crew](/services/garden-waste-removal-dubai) collects sorted cuttings, branches, fronds and the old hardware found underneath. [Send photos of the first cleared strip, the remaining growth and the gate width](/contact) and we will confirm a fixed price and the number of loads.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["mudon", "the-villa"],
+  },
+  {
+    slug: "how-to-hold-a-moving-sale-dubai",
+    title: "How to Hold a Moving Sale in Dubai Without Leftovers on Handover Day",
+    seoTitle: "How to Hold a Moving Sale in Dubai: Rules and Pricing",
+    excerpt:
+      "How to hold a moving sale in Dubai: get community approval, price for one weekend, control visitors and collections, and plan what happens to unsold items.",
+    category: "Moving & Clearance",
+    tags: ["Moving Sale", "Garage Sale", "Second Hand", "Villa Move-Out", "Dubai"],
+    coverImage: "/images/blog/charity-furniture-collection-dubai-hero.webp",
+    coverImageAlt:
+      "Resident showing a beige sofa to a man in a cap checking item photos on a tablet, with a dining set nearby and a truck beyond the open door",
+    publishedAt: "2026-11-24",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Ask community or building management before advertising; keep the sale inside your own property and by appointment if open access is refused.",
+      "Hold it two to three weeks before handover so buyers, charities and a final collection each have time.",
+      "Price in round figures for one weekend, bundle the small things and decide the closing price of every large item in advance.",
+      "Paid and collected means sold; everything else moves to donation or booked removal on a fixed date.",
+    ],
+    sections: [
+      {
+        heading: "How to hold a moving sale in Dubai",
+        content: [
+          "To hold a moving sale in Dubai, get your community or building management's answer first, choose one weekend two to three weeks before handover, and publish a photographed list with prices and collection times. Let buyers in by time slot, take payment before anything leaves, and give every large item a collection deadline. Book the donation and removal dates for unsold pieces before the sale opens. Checked on 24/11/2026.",
+          "A moving sale is not the same as listing a sofa online and waiting. You are running a short event from a home you still live in, with strangers at the gate and a lease end that does not move. The goal is an empty property. The money is a bonus.",
+          "For choosing between listing platforms and dealers, read the [guide to selling used furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai). This one covers planning the sale weekend and everything that has to happen after it.",
+        ],
+        callout: {
+          title: "Set the exit before you open the door",
+          text: "Write three dates on the list: last day to buy, last day to collect, and the day the remainder leaves. An item with no exit date is the one still in the hallway when the landlord arrives.",
+        },
+      },
+      {
+        heading: "Check the community rules before you advertise",
+        content: [
+          "We did not find a published city-wide rule that settles whether a resident may hold a garage sale at home, and community rules differ. Ask your master developer, owners' association or building management in writing. Give the date, hours, expected visitors and where things will be displayed, and keep the reply.",
+          "Shared space is the usual sticking point. [Emaar's resident FAQ for Arabian Ranches II](https://communities.emaar.com/en/page-categories/lifestyle/faqs/page/14), as one example, limits private functions in its parks to eight guests unless the community manager approves more. A driveway is different from a park, but the principle carries: do not spread rails, tables or signs onto pavements, verges, lobbies or visitor bays on the assumption that nobody minds.",
+          "If an open sale is refused, switch to viewings by appointment inside the home. Keep it to your own used belongings, too. Buying goods to resell is a business activity with its own licensing, whatever the sign on the gate says.",
+        ],
+        listItems: [
+          "Is a resident sale permitted, and does it need written approval?",
+          "How are visitors registered at the gate or security desk?",
+          "Where can buyers park and load, and for how long?",
+          "Are signs or posts in the residents' group allowed?",
+        ],
+      },
+      {
+        heading: "Decide what can be sold and what cannot",
+        content: [
+          "Start with ownership. Landlord appliances, fitted wardrobes, curtain tracks and anything on the tenancy inventory stay off the list; the [furnished-rental guide](/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai) helps where the line is unclear. The same goes for rented water dispensers, telecom equipment and whatever a flatmate or employer owns.",
+          "Leave out alcohol, medicines, opened cosmetics, gas cylinders, paint and chemicals, recalled products and anything electrical with a damaged cable. Be cautious with child car seats and helmets, where a buyer cannot see past impacts. Used mattresses draw few takers, so plan for the [mattress disposal route](/blog/how-to-dispose-of-an-old-mattress-in-dubai) instead of giving one a prime spot.",
+          "Wipe phones, laptops, routers and smart-home devices before display, and check drawers, coat pockets and book pages. Documents and spare keys turn up there constantly.",
+        ],
+      },
+      {
+        heading: "Price for one weekend, not for perfect value",
+        content: [
+          "A buyer at a moving sale expects a bargain in return for collecting quickly. Look at current asking prices for the same item in similar condition, then go lower for anything bulky, dismantled or hard to carry. Round figures in notes people actually hold make the day faster.",
+          "Set two numbers for every large piece: the opening price and the figure you will accept in the final hours. Deciding that beforehand stops the tired, irritated haggling that ends with a wardrobe going unsold over a trivial gap. Remember that keeping it may cost you money to remove.",
+          "Small things need bundles. A full kitchen box, a shelf of children's books, all the hangers: one price, one bag. Pricing forty mugs individually uses an evening you do not have.",
+          "Number each item, stick the label on, and keep a matching sheet with dimensions, price, deposit, buyer and collection slot. Put a sold sticker on only when payment has arrived.",
+        ],
+      },
+      {
+        heading: "Run the weekend so strangers never roam the house",
+        content: [
+          "Group what is for sale in one or two rooms or the garage, with a single way in and out. Lock the rest. Passports, jewellery, medication, keys and laptops go behind that locked door or leave the house altogether, and pets stay elsewhere. Have a second adult present; one person cannot take payment and watch the entrance.",
+          "Share the exact villa or apartment number only with confirmed visitors. For bank transfers, check that the money shows in your own account, not just in a screenshot. Do not scan payment codes sent by a buyer or pay a courier fee to receive your own money.",
+          "Demonstrate appliances while they are still plugged in, and describe faults honestly. Buyers should bring enough people, tools and a vehicle. If a piece will not pass through the door intact, agree who dismantles it before payment.",
+        ],
+      },
+      {
+        heading: "Make collection part of the sale",
+        content: [
+          "In a villa community such as [Damac Hills](/areas/damac-hills), a pickup truck may need registering at the gate, so collect buyers' vehicle details with the deposit. In the apartment blocks of [Al Furjan](/areas/al-furjan), the limit is usually the service lift: book one longer slot and group collections inside it.",
+          "Take a non-refundable deposit only if you said so clearly and in writing. Give each buyer a cut-off, and keep the runner-up's number. Someone who misses the slot without contact loses the item to the next person; otherwise one no-show holds up an entire move.",
+          "Beds, fridges and the dining table often sell first yet leave last. Mark those ‘available from’ a given date, rather than sleeping on the floor for ten days.",
+        ],
+      },
+      {
+        heading: "What to do with what does not sell",
+        content: [
+          "On the closing evening, sort the remainder while everything is still labelled. Good pieces go to a confirmed recipient, following the [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai); charities decide on condition and may need notice, so contact them before the sale rather than after it. A second week of listings makes sense only for something valuable and easy to carry.",
+          "Everything else becomes one final load. Do not post it as ‘free, help yourself’ beside the bins, where it turns into your dumped furniture. Count the pieces, include the broken and half-empty boxes, and fit the collection into the [villa move-out checklist](/blog/villa-move-out-clearance-checklist-dubai) ahead of cleaning.",
+        ],
+        image: {
+          src: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+          alt: "Two people sorting boxes marked for donation and charity, storage tubs and flat panels marked for removal in a villa garage",
+        },
+      },
+      {
+        heading: "Book the last collection before the first buyer arrives",
+        content: [
+          "Reserve a removal date two or three days after the sale closes and adjust the item list once you know what is left. A slot held early is easier to shrink than one found the day before key handover.",
+          "Our [villa clearance team](/services/villa-clearance-dubai) can take the unsold furniture, garage contents and bagged odds and ends in one visit. [Send photos of the leftovers and your handover date](/contact) and we will confirm a fixed price for what actually remains.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "house-clearance-dubai"],
+    relatedAreas: ["damac-hills", "al-furjan"],
+  },
+  {
+    slug: "old-item-removal-on-new-furniture-delivery-day-dubai",
+    title: "Old Item Removal on New Furniture Delivery Day: A Dubai Timing Plan",
+    seoTitle: "Old Item Removal on New Furniture Delivery Day in Dubai",
+    excerpt:
+      "Plan old item removal on new furniture delivery day: confirm what the store takes, sequence both crews, share the lift slot and prepare for a delayed truck.",
+    category: "Guides",
+    tags: ["Delivery Day", "Sofa Replacement", "Same-Day Collection", "Service Lift", "Dubai"],
+    coverImage: "/images/blog/recycle-old-sofa-dubai-hero.webp",
+    coverImageAlt:
+      "Worker in gloves checking the arm of a worn brown sofa while the resident looks on in a Dubai high-rise living room",
+    publishedAt: "2026-11-24",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Ask the retailer in writing whether its crew removes the old item, from which room, and whether that includes dismantling.",
+      "Remove the old piece two to four hours before the delivery window when the two would share a room, route or lift.",
+      "For beds and fridges, keep the replacement gap short and have a fallback for the night or the food.",
+      "Confirm the new item is dispatched and will fit before the old one leaves the building.",
+    ],
+    sections: [
+      {
+        heading: "How to plan old item removal on new furniture delivery day",
+        content: [
+          "Plan old item removal on new furniture delivery day by asking the store what it will take, then booking a collection two to four hours before the delivery window. Confirm the new piece is on the truck, measure its route, reserve one service-lift slot that covers both jobs and empty the old item the night before. If delivery slips, the collection should slip with it. Checked on 24/11/2026.",
+          "Two crews, one room and one lift is the whole problem. If the old sofa is still in place, the delivery team may leave the new one boxed in the hallway. If it left yesterday and the truck is cancelled, you are sitting on cushions until next week.",
+          "The timing below suits a planned replacement. For a sudden problem with no delivery involved, use the [urgent pickup preparation guide](/blog/urgent-junk-pickup-dubai).",
+        ],
+        callout: {
+          title: "Confirm dispatch before you release the old one",
+          text: "Wait for the store's day-of-delivery message or call, then give the collection crew the go-ahead. A booked date is not the same as an item on a vehicle.",
+        },
+      },
+      {
+        heading: "Ask the store exactly what its crew will do",
+        content: [
+          "Some retailers offer take-back or trade-in on certain products, others deliver and leave. Terms vary by store, by item and sometimes by delivery method, so do not rely on what a friend was told. Ask before paying, and get the answer on the order or by message.",
+          "The useful questions are specific. A crew that ‘takes the old one’ might mean only a like-for-like mattress, already bagged, waiting at the door. A third-party courier may know nothing about a promise made on the shop floor.",
+        ],
+        listItems: [
+          "Will this exact old item be removed, and is there a charge?",
+          "Does the crew collect from the room, the front door or the loading bay?",
+          "Who dismantles the old bed or disconnects the old appliance?",
+          "Is stained, broken or differently sized furniture refused?",
+          "Does packaging from the new item leave with the crew?",
+        ],
+      },
+      {
+        heading: "Choose the gap that suits the item",
+        content: [
+          "A sofa, wardrobe or dining set usually needs the old piece out first, because the new one takes the same floor space. Two to four hours is a workable gap: long enough to absorb a slow lift, to vacuum and to check the floor, short enough to avoid a day without seating.",
+          "A bed is less forgiving. Morning removal with afternoon delivery works only if you have somewhere else to sleep when the van fails to appear. Where space allows, stand the old mattress in another room and let it go after the new one is assembled.",
+          "A fridge should normally overlap. Keep the old unit running until the replacement is in position and, if the maker says to let it stand before switching on, until it has cooled. Use a cool box for the changeover, and follow the [fridge removal preparation guide](/blog/fridge-removal-dubai-preparation-guide) for defrosting and water lines. Washing machines and dishwashers are the opposite: the connection point is shared, so the old machine must be disconnected and drained first.",
+          "Delivery windows tend to be wide and confirmed late. If yours is ‘between ten and six’, ask to be first or last drop, or hold the collection on a call-ahead basis.",
+        ],
+      },
+      {
+        heading: "Use one lift slot for both directions",
+        content: [
+          "Tell building management that one item is leaving and another is arriving, with both company names and vehicle numbers. A tower may treat a furniture delivery and a removal as separate permits even when they happen an hour apart. One continuous booking avoids losing the lift to another resident halfway through.",
+          "Old goes down, new comes up. The outgoing crew protects the route, clears it fully and frees the loading bay before the delivery truck reverses in. In [Dubai Creek Harbour](/areas/dubai-creek-harbour), check the loading-bay time limit for each vehicle. In [Jumeirah Beach Residence](/areas/jumeirah-beach-residence), confirm which loading level serves your tower, because two crews sent to different entrances will not find each other.",
+          "Villas are simpler, but a single driveway still holds only one truck. Leave a gap between arrivals and keep the gate, porch and stairs clear for the larger piece.",
+        ],
+        image: {
+          src: "/images/blog/service-lift-loading-time-dubai.webp",
+          alt: "Crew carrying a wrapped bulky item along a protected floor toward a service lift with a truck being loaded at the bay beyond",
+        },
+      },
+      {
+        heading: "Measure the new piece before the old one goes",
+        content: [
+          "The worst outcome is an empty room and a sofa that will not turn the corner. Compare the packed dimensions, not the showroom ones, with the lift door, lift depth, corridor turn and apartment door. The [doors and lifts measuring guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows how to test the diagonal.",
+          "An old item that entered in pieces may have to leave the same way. Corner sofas often separate underneath, and bed frames and wardrobes need tools and time. Schedule that for the evening before, using the [flat-pack dismantling guide](/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai) if it helps, or tell the collector so the crew brings what it needs.",
+        ],
+      },
+      {
+        heading: "Prepare the room the night before",
+        content: [
+          "Empty drawers and storage bases, strip the bed and check between sofa cushions for remotes, earrings and cards. Move lamps, rugs and side tables out of both routes. Put loose feet, bolts and cables in one bag and decide whether they leave with the old item or stay.",
+          "Photograph the floor and walls along the way. With two companies using one corridor, a fresh scratch can otherwise become an argument about who was there last.",
+          "A usable sofa does not need to become waste. Arrange its buyer or recipient for the same window and keep a collection slot as backup; the [old sofa options guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) explains what makes one worth passing on.",
+        ],
+      },
+      {
+        heading: "Have a plan for a late, damaged or refused delivery",
+        content: [
+          "If the truck is delayed, call the collector before its crew sets off and move the slot. If the old item has already gone, ask the store for a firm new date and whether it can lend or prioritise anything, then use what you have. Never park the old sofa in the corridor as insurance; shared routes have to stay clear.",
+          "Open and inspect the new item before its crew leaves. Where you suspect you might reject it, ask for the collection to follow delivery instead of preceding it. Keep the packaging until you are sure, then add it to the load: foam, film and cardboard from one wardrobe can fill more space than expected.",
+          "Our [same-day removal service](/services/same-day-junk-removal-dubai) can fit around a confirmed delivery window when crew capacity and building access allow. [Send a photo of the old item, your floor, the lift booking and the store's time window](/contact) and we will suggest a collection time with a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["same-day-junk-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["dubai-creek-harbour", "jumeirah-beach-residence"],
+  },
+  {
     slug: "how-to-clear-junk-safely-heat-dubai",
     title: "How to Clear Junk Safely in Dubai Heat: Timing, Hydration and Heavy Lifts",
     seoTitle: "How to Clear Junk Safely in Dubai Heat: Summer Guide",
@@ -2017,7 +2309,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Create keep, return, sell, donate, collect and unresolved groups by room. Protect passports, title papers, photographs, jewellery, keys, devices and medicine before bulk sorting. Test or clean items only when safe; a dusty object may be reusable, while a superficially clean sofa may have odour, pest or moisture damage that makes donation unsuitable.",
           "Start with the access route and a clean staging room, then work outward. Empty cupboards and furniture before moving them, contain broken glass and keep chemicals upright in original containers. Photograph every unresolved item and record why it stayed: ownership, fixed status, hazard or specialist appointment.",
-          "Do not let the interior consume the whole schedule. Check the maid's or driver's room, laundry, garage, under-stair cupboards, balcony, roof access, plant room, garden store and perimeter. Dead plants, brittle hoses and sun-damaged outdoor furniture can equal another room of volume.",
+          "Do not let the interior consume the whole schedule. Check the maid's or driver's room, laundry, garage, under-stair cupboards, balcony, roof access, plant room, garden store and perimeter. Dead plants, brittle hoses and sun-damaged outdoor furniture can equal another room of volume. If growth has hidden the ground, follow the [overgrown garden clearance order](/blog/how-to-clear-an-overgrown-villa-garden-dubai) before anyone walks it.",
         ],
       },
       {
@@ -2178,7 +2470,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Sell and donate while there is still time to recover",
         content: [
-          "List sale items early with honest dimensions, condition, collection floor and deadline. Agree whether the buyer dismantles and carries the item, and do not let an unapproved buyer arrive at a tower loading bay. Keep a backup route for every sale until payment and collection are complete.",
+          "List sale items early with honest dimensions, condition, collection floor and deadline. Agree whether the buyer dismantles and carries the item, and do not let an unapproved buyer arrive at a tower loading bay. Keep a backup route for every sale until payment and collection are complete. To open the home to buyers over one weekend, use the [plan for a moving sale](/blog/how-to-hold-a-moving-sale-dubai).",
           "Offer donations as specific, usable pieces rather than an entire unseen household. Clean furniture, assemble loose parts and ask the recipient to confirm acceptance and transport. The [furniture donation guide](/blog/charity-furniture-collection-and-donation-dubai) explains why a donation message is not the same as a booked collection.",
           "Do not give away landlord fixtures, a flatmate's property or items still included in a sale agreement. When several adults are leaving, each owner should approve their lines on the inventory. Unclaimed does not automatically mean unwanted.",
         ],
@@ -4641,7 +4933,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Keep the pickup genuinely small and visible",
         content: [
           "Use urgent pickup for one bulky item or a short, clearly grouped list. Photograph each large piece from far enough away to show its full size, then add one photo of the route: doorway, staircase, lift or gate. Include loose bags and boxes in the count rather than placing them outside the camera frame.",
-          "If cupboards still need emptying, furniture needs dismantling in several rooms, or you are clearing most of a property, describe it as a clearance. The [junk-removal preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers the normal preparation sequence, while a deadline-driven full load is addressed in our [urgent collection guide](/blog/urgent-junk-collection-dubai).",
+          "If cupboards still need emptying, furniture needs dismantling in several rooms, or you are clearing most of a property, describe it as a clearance. If the pickup is making room for a replacement, plan it around the truck with the [delivery-day removal timing guide](/blog/old-item-removal-on-new-furniture-delivery-day-dubai). The [junk-removal preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers the normal preparation sequence, while a deadline-driven full load is addressed in our [urgent collection guide](/blog/urgent-junk-collection-dubai).",
           "Do not carry items into a public corridor while waiting for confirmation. Shared hallways and fire routes must remain clear, and building teams may refuse an unapproved contractor even when the items are already outside the apartment.",
         ],
       },
@@ -10232,7 +10524,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Second-hand pricing in Dubai has less to do with what an item cost new than with whether it can survive a move. Solid timber, metal frames and recognised brands hold value because a buyer can see they will still be intact after being carried down a service lift. Flat-pack furniture that has already been assembled once loses most of its value the moment it is disassembled — the panels chip, the cam locks loosen, and the buyer knows it.",
           "Three categories are effectively unsellable regardless of condition: used mattresses, upholstered items with stains or odour, and anything built into the property such as fitted wardrobes and made-to-measure shelving. Do not spend two weeks trying to sell them. Mattresses in particular need their own route, which our guide on [mattress disposal in Dubai](/blog/how-to-dispose-of-an-old-mattress-in-dubai) covers in full.",
           "A piece that may be genuinely old, signed or unusually made should not be priced from ordinary marketplace comparisons alone. Build a condition and provenance record first, then follow the [antique furniture appraisal and sale plan](/blog/how-to-sell-antique-furniture-dubai) before cleaning, repairing or accepting an offer.",
-          "Set a realistic asking price, add a line saying the price is firm for the first week, then reduce once. Buyers here are experienced negotiators and a listing that has been up for a month with three price cuts signals that the seller is running out of time.",
+          "Set a realistic asking price, add a line saying the price is firm for the first week, then reduce once. Buyers here are experienced negotiators and a listing that has been up for a month with three price cuts signals that the seller is running out of time. If you would rather sell most of the household in one go, the [moving sale guide](/blog/how-to-hold-a-moving-sale-dubai) covers weekend pricing and visitor control.",
         ],
         image: {
           src: u("1602770318920-7a02839e5c4d"),
@@ -13532,7 +13824,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "To dispose of garden waste in Dubai, separate plant material from soil and garden hardware, check your property's collection arrangements, and book a collector that accepts the actual load. Confirm containers, access and the receiving route before putting anything outside. This guide was checked on 19/09/2026.",
           "A post-pruning pile is rarely one material. Leaves and grass sit beside woody branches, fibrous palm fronds, roots, plastic ties and broken pots. Mixing them makes the collection harder to price and can prevent a clean plant stream from reaching a suitable processing route.",
           "Dubai Municipality's [waste classification overview](https://www.dm.gov.ae/rasid/hazardous-waste-management/) identifies green or horticultural waste separately from general, construction, liquid and hazardous wastes. That distinction is useful when describing your load; it does not mean every collection service accepts every garden item.",
-          "This guide covers disposal after garden work. For deciding what else to clear from garages and terraces, use the [seasonal home and garden checklist](/blog/spring-cleaning-junk-removal-checklist-dubai). When the cooler months arrive and beds need preparing for new plants, follow the [pre-planting garden clean-up sequence](/blog/garden-clean-up-before-the-planting-season-dubai).",
+          "This guide covers disposal after garden work. For deciding what else to clear from garages and terraces, use the [seasonal home and garden checklist](/blog/spring-cleaning-junk-removal-checklist-dubai). When the cooler months arrive and beds need preparing for new plants, follow the [pre-planting garden clean-up sequence](/blog/garden-clean-up-before-the-planting-season-dubai). Where the plot has been left unmanaged, start with the [safe order of work for an overgrown garden](/blog/how-to-clear-an-overgrown-villa-garden-dubai).",
         ],
       },
       {

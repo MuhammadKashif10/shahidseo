@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-23**
+Last synchronized: **2026-11-24**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -216,10 +216,14 @@ Canonical implementation: `data/blog.ts`
 | 209 | `how to clear junk safely in dubai heat`                                  | Informational              | `/blog/how-to-clear-junk-safely-heat-dubai`                                     | 2026-11-23 | Published |
 | 210 | `how to dispose of an old display cabinet in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-display-cabinet-dubai`                          | 2026-11-23 | Published |
 | 211 | `what to do about junk dumped in your building corridor`                  | Informational              | `/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai`            | 2026-11-23 | Published |
+| 212 | `how to clear an overgrown villa garden in dubai`                         | Informational              | `/blog/how-to-clear-an-overgrown-villa-garden-dubai`                            | 2026-11-24 | Published |
+| 213 | `how to hold a moving sale in dubai`                                      | Informational              | `/blog/how-to-hold-a-moving-sale-dubai`                                         | 2026-11-24 | Published |
+| 214 | `old item removal on new furniture delivery day`                          | Informational              | `/blog/old-item-removal-on-new-furniture-delivery-day-dubai`                    | 2026-11-24 | Published |
 
 ## Current counts
 
-- Published: **211**
+- Published: **214**
+- Published on 2026-11-24: **3**
 - Published on 2026-11-23: **3**
 - Published on 2026-11-21: **3**
 - Published on 2026-11-20: **3**
@@ -261,9 +265,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **148**
-- Service-support queue written: **57 / 90**
-- Next approved priority: **Day 20 (24/11/2026): clearing an overgrown villa garden, holding a moving sale, and old-item removal on new-furniture delivery day.**
+- Supplemental approved articles published: **151**
+- Service-support queue written: **60 / 90**
+- Next approved priority: **Day 21 (25/11/2026): old sideboards and buffet cabinets, sentimental items during a clear-out, and clearing a studio apartment in one trip.**
+
+## Cannibalization notes for 2026-11-24 batch
+
+- The overgrown-garden guide owns clearing a neglected plot: hidden-hazard inspection, permission for hedges and trees, cutting from the gate inward in layers, sorting as growth comes out and estimating volume from the first strip. The planting-season guide retains the seasonal tidy of a maintained garden; the garden-waste guide retains stream-by-stream disposal; the planned storm-debris guide (28/11/2026) keeps weather damage. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The moving-sale guide owns running a sale weekend from home: management approval, exclusions, one-weekend pricing, visitor control, collection cut-offs and the unsold remainder. The sell-used-furniture guide retains platforms, dealers and resale value; the leaving-for-good guide retains the full departure sequence. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The delivery-day guide owns timing an outgoing item against an incoming one: store questions, the gap by item type, one lift slot for both crews and fallback for a delayed or refused delivery. The urgent-pickup guide retains deadline pickups without a delivery; the planned trade-in guide (27/11/2026) keeps retailer trade-in terms; the planned floor-protection guide (28/11/2026) keeps surfaces. Commercial intent stays with `/services/same-day-junk-removal-dubai`.
+- Each article links to its supported service, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the garden-waste, long-empty-villa, sell-used-furniture, leaving-for-good and urgent-pickup guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-24.md`.
 
 ## Cannibalization notes for 2026-11-23 batch
 
