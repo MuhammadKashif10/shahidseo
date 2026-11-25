@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-24**
+Last synchronized: **2026-11-25**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -219,10 +219,14 @@ Canonical implementation: `data/blog.ts`
 | 212 | `how to clear an overgrown villa garden in dubai`                         | Informational              | `/blog/how-to-clear-an-overgrown-villa-garden-dubai`                            | 2026-11-24 | Published |
 | 213 | `how to hold a moving sale in dubai`                                      | Informational              | `/blog/how-to-hold-a-moving-sale-dubai`                                         | 2026-11-24 | Published |
 | 214 | `old item removal on new furniture delivery day`                          | Informational              | `/blog/old-item-removal-on-new-furniture-delivery-day-dubai`                    | 2026-11-24 | Published |
+| 215 | `how to dispose of an old sideboard and buffet cabinet in dubai`          | Informational              | `/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai`             | 2026-11-25 | Published |
+| 216 | `what to do with sentimental items during a clear out`                    | Informational              | `/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai`              | 2026-11-25 | Published |
+| 217 | `how to clear a studio apartment in one trip`                             | Informational              | `/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai`                       | 2026-11-25 | Published |
 
 ## Current counts
 
-- Published: **214**
+- Published: **217**
+- Published on 2026-11-25: **3**
 - Published on 2026-11-24: **3**
 - Published on 2026-11-23: **3**
 - Published on 2026-11-21: **3**
@@ -266,8 +270,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **151**
-- Service-support queue written: **60 / 90**
-- Next approved priority: **Day 21 (25/11/2026): old sideboards and buffet cabinets, sentimental items during a clear-out, and clearing a studio apartment in one trip.**
+- Service-support queue written: **63 / 90**
+- Next approved priority: **Day 22 (26/11/2026): old garden fencing and trellis, splitting junk removal costs with flatmates, and downsizing a small office in Dubai.**
+
+## Cannibalization notes for 2026-11-25 batch
+
+- The sideboard and buffet cabinet guide owns low, long dining case furniture: emptying hidden compartments, removing drawers, shelves, quick-release doors and loose stone or glass tops, measuring the bare carcass against corridor turns and lifts, and lifting from the solid base rails rather than the overhanging top. `/blog/how-to-dispose-of-an-old-display-cabinet-dubai` retains tall glazed cabinets and internal lighting; `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` retains bedroom drawer chests and slide release; `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai` retains fixed joinery. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The sentimental-items guide owns keeping a clear-out moving past keepsakes: separating sentimental boxes on the first pass, setting a fixed container limit, choosing representative pieces, photographing bulky keepsakes before release, using a dated pause box and isolating keep tubs from the removal zone. `/blog/how-to-help-elderly-parents-declutter-dubai` retains parent-led consent and pacing; `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai` retains bereavement authority and legal inventory; `/blog/how-to-declutter-your-home-room-by-room-dubai` retains general room sequencing. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
+- The studio-one-trip guide owns fitting a full studio clearance into a single booked slot: freezing the remove list across cupboards and balcony, packing loose clutter and prep dismantling the night before, reserving one continuous service-lift and security window, and sending wide photos of every zone so one truck finishes the job. `/blog/decluttering-tips-for-small-apartments-in-dubai` retains ongoing small-flat space-saving while living there; `/blog/end-of-semester-clear-out-for-students-dubai` retains academic-calendar shared-flat exits; `/blog/what-to-remove-before-rental-handover-dubai` retains tenancy fixture-versus-belonging rules. Commercial intent stays with `/services/house-clearance-dubai` and `/services/same-day-junk-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the display-cabinet, elderly-parents-decluttering and small-apartment-decluttering guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-25.md`.
 
 ## Cannibalization notes for 2026-11-24 batch
 

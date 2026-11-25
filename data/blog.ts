@@ -51,6 +51,235 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai",
+    title: "How to Dispose of an Old Sideboard and Buffet Cabinet in Dubai",
+    seoTitle: "How to Dispose of an Old Sideboard and Buffet Cabinet in Dubai",
+    excerpt:
+      "How to dispose of an old sideboard and buffet cabinet in Dubai: empty and check hidden corners, remove doors and shelves, protect stone tops and move safely.",
+    category: "Guides",
+    tags: ["Sideboard", "Buffet Cabinet", "Furniture Removal", "Case Furniture", "Dubai"],
+    coverImage: "/images/blog/old-chest-of-drawers-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two crew members in gloves beside an emptied wooden storage unit with removed drawers stacked nearby, a wall anti-tip strap being released and a trolley on the floor",
+    publishedAt: "2026-11-25",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Empty every drawer, shelf and false-bottom tray before shifting the carcass; dining sideboards routinely hide silver, keys and spare tiles.",
+      "Remove loose shelves, glass inserts and quick-release doors so the frame is lighter and doors cannot swing open on the stairs.",
+      "Lift from the solid base rails rather than the overhanging top, and keep long stone-topped units upright on edge if needed rather than twisting.",
+      "Measure the bare length against corridor turns and service-lift doors, because a two-metre credenza behaves differently from a sofa.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old sideboard and buffet cabinet in Dubai",
+        content: [
+          "To dispose of an old sideboard and buffet cabinet in Dubai, empty every compartment, take out loose shelves and drawers, release any wall restraint and unscrew quick-release doors before moving the frame. Check whether a stone or glass top lifts off separately, measure the bare carcass against turns and lifts, and donate usable solid-wood units or book a two-person furniture collection. Checked on 25/11/2026.",
+          "Sideboards, credenzas and buffet cabinets look straightforward because they sit low to the floor. In practice they are some of the heaviest, least forgiving pieces in a dining room: wide, rigid boxes with fragile doors, heavy tops and joints that rack if carried by the wrong edge.",
+          "If the piece is a tall glazed unit with internal lighting, the [display cabinet disposal guide](/blog/how-to-dispose-of-an-old-display-cabinet-dubai) covers upright glass handling and wiring. This guide focuses on low, long dining storage.",
+        ],
+        callout: {
+          title: "Never lift a sideboard by its top",
+          text: "On many buffet cabinets, the top board is held only by dowels, cam locks or light brackets. Pulling upward on the overhang can tear the top clean off while the base stays on the floor.",
+        },
+      },
+      {
+        heading: "Empty it completely and check the places things hide",
+        content: [
+          "Dining sideboards gather items that stay untouched for years: serving platters, table linens, candles that have softened in summer, spare floor tiles, extension leaves for the dining table and small envelopes pushed behind a drawer. Take everything out and check the back of each drawer recess with a torch.",
+          "Unplug any concealed power strip or router tucked behind the back panel, and untape cables from the rear edge. If the cabinet has an anti-tip bracket or strap fixed into the wall, have one person steady the unit while the other releases the screw.",
+          "Do not tape drawers shut and try to carry the cabinet full. A loaded drawer slides forward the moment the unit tilts, throwing off the carrier's balance and snapping the runners.",
+        ],
+      },
+      {
+        heading: "Remove doors, drawers, shelves and loose tops",
+        content: [
+          "Every loose part you take out drops weight and prevents damage in the corridor. Lift out adjustable shelves, collect the small metal shelf pegs in a zip bag and take out drawers one by one. For drawer-slide release tips, the [chest of drawers guide](/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai) explains the common clip and roller types.",
+          "Unclip or unscrew cabinet doors if they swing freely or add awkward width, then tape the hinges flat or bag the screws so a charity recipient can rehang them. Keep glass door panels wrapped upright rather than stacked under heavy boards.",
+          "Check whether the buffet has a separate marble, quartz or tempered-glass top resting on silicone pads or recessed pins. If it lifts cleanly, carry it separately with two people keeping it vertical; the [marble and stone tabletop guide](/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai) covers safe slab handling.",
+        ],
+        listItems: [
+          "Remove and stack drawers, labelling left, middle and right if the cabinet is being donated.",
+          "Lift out loose timber or glass shelves and bag all shelf pins and handles.",
+          "Unclip euro-hinges or wrap a single stretch-film band around the carcass once empty.",
+          "Unscrew adjustable feet if they catch on thresholds or need clearance at the lift door.",
+        ],
+      },
+      {
+        heading: "Check condition for resale, donation or material recovery",
+        content: [
+          "Solid-timber sideboards, mid-century credenzas and clean modern buffets with working hinges still find buyers or charity recipients quickly. Photograph the front, the inside with doors open, the back panel and any veneer chips or water rings from plant pots.",
+          "If the cabinet is going for reuse, check the [charity furniture collection guide](/blog/charity-furniture-collection-and-donation-dubai) so it is staged clean and dry with hardware attached. Engineered board that has swollen along the bottom plinth from mopping, or a unit with split cam-lock joints, usually belongs in material recovery rather than donation.",
+        ],
+        image: {
+          src: "/images/blog/chest-of-drawers-material-sorting-dubai.webp",
+          alt: "Worker in high-visibility vest stacking wooden drawers beside sorted particleboard panels and grey bins of metal handles, screws and runners",
+        },
+      },
+      {
+        heading: "Measure the carcass and lift safely",
+        content: [
+          "A two-metre buffet cannot flex around a tight hallway turn the way a sofa cushion can. Measure the full length, depth and height of the bare frame, then test the doorway, corridor corner and service-lift opening using the [doors and lifts measuring guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai).",
+          "In villas across [Dubai Hills Estate](/areas/dubai-hills-estate) and [The Meadows](/areas/the-meadows), sideboards often leave through the patio or double main door rather than narrow internal halls, though garden steps and thresholds still need a trolley or two-person carry. Lift from underneath the corner posts and bottom rail, keeping the back panel upright so the frame stays square.",
+          "Do not leave an old buffet beside communal bins or on a shared verge. Our [furniture removal service](/services/furniture-removal-dubai) and [bulky item removal crew](/services/bulky-item-removal-dubai) handle two-person carries, dismantling of damaged engineered-wood frames and upright transport. [Send front and side photos, approximate length and your access details](/contact) for a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "the-meadows"],
+  },
+  {
+    slug: "what-to-do-with-sentimental-items-during-a-clear-out-dubai",
+    title: "What to Do With Sentimental Items During a Clear-Out",
+    seoTitle: "What to Do With Sentimental Items During a Clear-Out",
+    excerpt:
+      "What to do with sentimental items during a clear-out: keep a clear-out moving with container limits, photo archives, representative pieces and a dated pause box.",
+    category: "Moving & Clearance",
+    tags: ["Sentimental Items", "Decluttering", "Keepsakes", "Clear-Out", "Dubai"],
+    coverImage: "/images/blog/room-by-room-decluttering-dubai-hero.webp",
+    coverImageAlt:
+      "Bright Dubai apartment living room with woven storage baskets, selected books, framed art and plants neatly arranged on built-in shelves",
+    publishedAt: "2026-11-25",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Set sentimental items aside during the first pass so one box of photographs does not stall an entire room.",
+      "Pick a physical container limit—one or two archive tubs—before deciding what stays, rather than deciding item by item in a vacuum.",
+      "Keep one representative piece from a large set and photograph bulky keepsakes with a short note before letting them go.",
+      "Store keepsakes in a clearly marked room or closet well away from the removal pile so nothing leaves by mistake.",
+    ],
+    sections: [
+      {
+        heading: "What to do with sentimental items during a clear-out",
+        content: [
+          "During a clear-out, collect sentimental items into a separate, clearly marked zone on the first pass so the rest of the room keeps moving. Once the bulk junk is gone, give keepsakes a fixed container limit, keep the best representative pieces, photograph bulky items you cannot take, and put undecided things into a dated pause box. Checked on 25/11/2026.",
+          "Most clear-outs do not fail because of heavy furniture. They stall at a shelf of school trophies, a drawer of birthday cards or three crates of inherited china that take forty minutes per item to debate while the handover date gets closer.",
+          "If you are helping an older relative, start with the [elderly parents decluttering guide](/blog/how-to-help-elderly-parents-declutter-dubai), which covers consent and pacing. If the clear-out follows a bereavement, read the [home clearance after a death guide](/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai) first.",
+        ],
+        callout: {
+          title: "Never mix keepsakes into the removal zone",
+          text: "Do not use spare black bags or unlabelled cartons for sentimental things. Keep them in one closed room, wardrobe or clearly marked plastic tub before any crew enters the property.",
+        },
+      },
+      {
+        heading: "Separate keepsake sorting from the main clear-out",
+        content: [
+          "Follow the [room-by-room decluttering sequence](/blog/how-to-declutter-your-home-room-by-room-dubai) for broken, expired and obvious discard items first. Whenever you hit a box of letters, travel souvenirs or children's artwork, resist opening every envelope on the spot. Move the closed box to a single ‘keepsakes’ corner and carry on.",
+          "Clearing the obvious clutter first changes the whole room. Once empty floors and clear surfaces return, you have table space, daylight and calm energy to look at sentimental things properly without sitting among rubbish bags.",
+        ],
+      },
+      {
+        heading: "Set a container limit and choose representative pieces",
+        content: [
+          "Decide how much space the keepsakes are allowed to occupy in your current or next home—for example, one lidded plastic crate per person, or one shelf in the study. Especially when moving abroad or [downsizing from a villa to an apartment](/blog/downsizing-from-a-villa-to-an-apartment-dubai), physical volume is a neutral referee.",
+          "When facing a large collection—twenty years of children's drawings, forty mugs from trips, or a full inherited dinner service—pick the best two or three pieces that carry the memory. Keeping three favourite drawings in a folder honours them better than burying two hundred in a damp cupboard.",
+        ],
+        listItems: [
+          "Keep items that still carry a clear story you can name in one sentence.",
+          "Pass functional heirloom pieces to family members only after they confirm they want them, with a collection date attached.",
+          "Separate paperwork that is actually legal or financial (passports, contracts, certificates) from sentimental paper before filing.",
+          "Discard damaged, mouldy or pest-affected boxes promptly; in Dubai's humidity, unsealed cardboard stores poorly.",
+        ],
+      },
+      {
+        heading: "Photograph what is too large to keep",
+        content: [
+          "A bulky keepsake—a child's first bicycle, a worn armchair or a large framed certificate—takes up space you may not have, yet feels hard to let go of because you worry the memory will fade with it. Take two clear photos in good light, write two lines about why it mattered in a shared album, and then release the object.",
+          "For delicate items like glassware, jewellery or family photos that you are keeping, wrap them in acid-free tissue or clean cotton inside rigid, sealed tubs rather than leaving them in open baskets where dust settles.",
+        ],
+        image: {
+          src: "/images/blog/household-junk-triage-sorting-dubai.webp",
+          alt: "Crew member with a clipboard standing beside clearly separated sorting zones with labelled boxes for donation, books, household items, furniture and e-waste",
+        },
+      },
+      {
+        heading: "Use a dated pause box for genuine doubt",
+        content: [
+          "If an item leaves you genuinely torn after thirty seconds, place it in one sealed ‘pause’ box, write today's date and a review date three months ahead on the tape, and store it out of sight. If you have not opened the box or missed anything inside by that date, you can donate or clear it without regret.",
+          "In villas across [Arabian Ranches](/areas/arabian-ranches) and [Jumeirah](/areas/jumeirah), sentimental overflow often ends up in the maid's room, garage rafters or under-stair cupboard until a lease ends. Once your keep tubs are sealed and locked away, our [junk removal team](/services/junk-removal-dubai) and [house clearance crew](/services/house-clearance-dubai) can clear the remaining furniture, boxes and general household load cleanly. [Send photos of the approved removal pile only](/contact) and tell us which rooms are off-limits.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "jumeirah"],
+  },
+  {
+    slug: "how-to-clear-a-studio-apartment-in-one-trip-dubai",
+    title: "How to Clear a Studio Apartment in One Trip in Dubai",
+    seoTitle: "How to Clear a Studio Apartment in One Trip in Dubai",
+    excerpt:
+      "How to clear a studio apartment in one trip in Dubai: freeze the remove list, pack loose items, book one service-lift slot and send complete photos.",
+    category: "Moving & Clearance",
+    tags: ["Studio Apartment", "One-Trip Clearance", "Service Lift", "Move-Out", "Dubai"],
+    coverImage: "/images/blog/decluttering-small-apartments-dubai-hero.webp",
+    coverImageAlt:
+      "Resident beside stacked labelled storage tubs in a Dubai Marina apartment while two crew members carry a wooden coffee table through the doorway",
+    publishedAt: "2026-11-25",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "A studio almost always fits into a single collection trip when the full item list is confirmed before booking.",
+      "Pack small clutter into sealed bags or taped cartons and stack them along one wall so the crew is not loading loose handfuls.",
+      "Book one continuous service-lift and loading-bay slot, and register the crew and vehicle details with building security beforehand.",
+      "Send wide photos of the whole room, balcony, kitchen cupboards and corridor width so the right vehicle and crew arrive once.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a studio apartment in one trip",
+        content: [
+          "To clear a studio apartment in one trip in Dubai, freeze your keep-and-remove list the day before, bag or box all loose items, dismantle bulky bed frames or desks that will not clear the doorway, and reserve one service-lift and loading-bay window. Send wide photos of every zone—including the balcony and kitchen—so one appropriately sized truck and crew finish in a single visit. Checked on 25/11/2026.",
+          "Studios look quick to empty because everything sits in one room. They turn into two trips only when half the cupboards are still full on arrival, the bed frame needs unexpected tools, or the service lift closes before the last load reaches the bay.",
+          "If you are still living in the studio and only want to free up space, start with the [small-apartment decluttering guide](/blog/decluttering-tips-for-small-apartments-in-dubai). This plan is for clearing the whole studio out in one booked slot.",
+        ],
+        callout: {
+          title: "Lock the doorway and keep zone first",
+          text: "Put suitcases, handbags, passports, laptops and anything staying with you inside the bathroom or a taped corner by the entrance before loading starts, so nothing gets carried to the truck by mistake.",
+        },
+      },
+      {
+        heading: "Freeze the scope before you book the vehicle",
+        content: [
+          "Walk the studio with a notepad and count every piece leaving: bed and mattress, sofa or armchair, desk, dining set, TV stand, fridge or washing machine if yours, balcony chairs and bagged kitchenware. Check the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) so landlord appliances and fitted wardrobes stay behind.",
+          "Open every cupboard—above the fridge, under the sink, inside the wardrobe and out on the balcony. A studio's built-in storage often holds more volume than the furniture standing on the floor. Do not forget the [final walkthrough checks](/blog/final-walkthrough-before-junk-removal-dubai) for pockets, drawers and documents.",
+        ],
+      },
+      {
+        heading: "Pack loose items and prep furniture the night before",
+        content: [
+          "Loose mugs, hangers, shoes, cables and toiletries eat up crew time if they have to be gathered one by one. Put general household odds and ends into strong tied sacks or taped cartons, keep sharp knives and glass wrapped, and tape cords to appliances.",
+          "Check whether the bed frame, desk or wardrobe came in flat-packed and will need dismantling to pass the door or lift. Follow the [flat-pack dismantling guide](/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai) if you are taking it apart yourself, or tell the collector beforehand so the crew brings cordless drivers and bags for hardware.",
+          "Keep hazardous liquids, paint, gas canisters and swollen batteries out of the general sacks; the [prohibited-items guide](/blog/items-junk-removal-companies-cannot-take-dubai) lists what needs a separate route.",
+        ],
+        listItems: [
+          "Stack sealed boxes and bags along one wall, leaving a clear walking lane to the door.",
+          "Defrost and dry any personal mini-fridge the evening before so it does not leak in the lift.",
+          "Bring balcony chairs, planters and drying racks indoors only after shaking off dust and dry leaves.",
+          "Separate sellable or donatable electronics and clothes if another recipient is collecting them first.",
+        ],
+      },
+      {
+        heading: "Book one service-lift and security window",
+        content: [
+          "In high-rise clusters like [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) and low-rise blocks across [Discovery Gardens](/areas/discovery-gardens), the bottleneck is rarely the studio itself—it is building access. Ask management for the move-out permit rules, whether a refundable deposit is needed, and the exact hours the service lift and loading bay stay open.",
+          "A two-hour lift booking usually covers a studio clearance comfortably when everything is packed and staged, provided the truck can park close to the service corridor. Check the [permit and gate-pass guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) if you are unsure what security will ask for.",
+        ],
+        image: {
+          src: "/images/blog/high-rise-service-lift-junk-removal-dubai.webp",
+          alt: "Crew member wheeling a wrapped item on a trolley out of a padded service lift onto blue floor protection while building security checks a clipboard",
+        },
+      },
+      {
+        heading: "Send complete photos so one truck finishes the job",
+        content: [
+          "A single-trip booking depends on accurate sizing. Take three or four wide photos showing the main room, the open wardrobe, the kitchen corner and the balcony, plus one shot of any awkward turn or low basement clearance. If you want to know how operators size vehicles, read the [truck size guide](/blog/which-truck-size-do-you-need-for-junk-removal-dubai).",
+          "Our [house clearance team](/services/house-clearance-dubai) and [same-day removal service](/services/same-day-junk-removal-dubai) clear full studios in one planned visit, including padded lift runs and swept-floor handover readiness. [Send your studio photos, building name and preferred lift window](/contact) for a fixed, single-visit quote.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "discovery-gardens"],
+  },
+  {
     slug: "how-to-clear-an-overgrown-villa-garden-dubai",
     title: "How to Clear an Overgrown Villa Garden in Dubai: A Safe Order of Work",
     seoTitle: "How to Clear an Overgrown Villa Garden in Dubai Safely",
@@ -491,7 +720,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Route timber, glass, metal and lights separately",
         content: [
-          "A failed display cabinet is a mixed item. Timber or engineered-board carcasses follow the furniture route; intact removable glass stays protected for reuse or specialist handling; hinges and brackets are metal; plug-in lights, transformers and switches are electrical waste. Do not smash the cabinet to make it fit a communal bin.",
+          "A failed display cabinet is a mixed item. Timber or engineered-board carcasses follow the furniture route; intact removable glass stays protected for reuse or specialist handling; hinges and brackets are metal; plug-in lights, transformers and switches are electrical waste. Do not smash the cabinet to make it fit a communal bin. If you are clearing a low dining unit instead, the [sideboard and buffet cabinet guide](/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai) covers removing doors and lifting heavy case frames safely.",
           "Our [furniture removal service](/services/furniture-removal-dubai) can collect the cabinet, wrapped glass and declared lighting components in one booked visit. [Send front, side and rear photos plus the cabinet dimensions and access route](/contact), and we will confirm the scope and fixed price before arrival.",
         ],
       },
@@ -1647,7 +1876,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Choose one drawer, shelf or small furniture category and work for a fixed period. Use keep here, family collection, donate, sell, remove and pause. The pause box stays dated and closed until the next review; it prevents ten minutes spent debating one photograph from consuming the whole visit.",
           "For family items, write the recipient's name and collection date on each box. Send a photograph to relatives and make clear that uncollected items return to the parent's decision, not automatically to disposal. Avoid sending boxes to several relatives without an inventory; that is how documents and keepsakes disappear.",
-          "Photograph sentimental collections before reducing them, keep representative pieces where that feels right, and record the story in your parent's own words. Do not use resale estimates to pressure a decision. If something may be valuable, the [antique furniture guide](/blog/how-to-sell-antique-furniture-dubai) explains how to document it before cleaning or moving it.",
+          "Photograph sentimental collections before reducing them, keep representative pieces where that feels right, and record the story in your parent's own words. For a simple container-limit and pause-box method that stops keepsakes from stalling the job, read [what to do with sentimental items during a clear-out](/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai). Do not use resale estimates to pressure a decision. If something may be valuable, the [antique furniture guide](/blog/how-to-sell-antique-furniture-dubai) explains how to document it before cleaning or moving it.",
         ],
       },
       {
@@ -11843,7 +12072,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to clear your apartment clutter in a single morning",
         content: [
-          "A successful small-apartment purge ends with clean, breathable floors and no lingering bags. Trying to haul heavy chairs down the corridor or loading broken items into your car boot risks scuffing walls and wasting hours.",
+          "A successful small-apartment purge ends with clean, breathable floors and no lingering bags. Trying to haul heavy chairs down the corridor or loading broken items into your car boot risks scuffing walls and wasting hours. If you are emptying the whole flat before handover rather than just tidying, follow the plan for [clearing a studio apartment in one trip](/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai).",
           "Our [general junk removal service](/services/junk-removal-dubai) and [same-day pickup team](/services/same-day-junk-removal-dubai) specialize in rapid, discreet apartment clearances. Our uniformed crew arrives with protective dollies, dismantles bulky items on the spot, and handles loading-dock logistics smoothly. [Message us on WhatsApp with photos of your unwanted items](/contact) for an immediate, all-inclusive price.",
         ],
       },

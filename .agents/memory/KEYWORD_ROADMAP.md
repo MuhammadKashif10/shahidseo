@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-24**
+Last synchronized: **2026-11-25**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -76,9 +76,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       59 |  20 | 24/11/2026   | `how to clear an overgrown villa garden in dubai`                   | `/blog/how-to-clear-an-overgrown-villa-garden-dubai`                        | `/services/garden-waste-removal-dubai`  | Safe order of work, hidden hazards, bulk green waste                                   | Written |
 |       60 |  20 | 24/11/2026   | `how to hold a moving sale in dubai`                                | `/blog/how-to-hold-a-moving-sale-dubai`                                     | `/services/villa-clearance-dubai`       | Community rules, pricing, what to do with what does not sell                           | Written |
 |       61 |  20 | 24/11/2026   | `old item removal on new furniture delivery day`                    | `/blog/old-item-removal-on-new-furniture-delivery-day-dubai`                | `/services/same-day-junk-removal-dubai` | Coordinating removal of the old sofa, bed or fridge as the new one arrives             | Written |
-|       62 |  21 | 25/11/2026   | `how to dispose of an old sideboard and buffet cabinet in dubai`    | `/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai`         | `/services/furniture-removal-dubai`     | Heavy case furniture: emptying, removing doors, lifting                                | Planned |
-|       63 |  21 | 25/11/2026   | `what to do with sentimental items during a clear out`              | `/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai`          | `/services/junk-removal-dubai`          | Decision method for keepsakes so the clear-out does not stall                          | Planned |
-|       64 |  21 | 25/11/2026   | `how to clear a studio apartment in one trip`                       | `/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai`                   | `/services/house-clearance-dubai`       | Fitting a whole studio into one booked slot                                            | Planned |
+|       62 |  21 | 25/11/2026   | `how to dispose of an old sideboard and buffet cabinet in dubai`    | `/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai`         | `/services/furniture-removal-dubai`     | Heavy case furniture: emptying, removing doors, lifting                                | Written |
+|       63 |  21 | 25/11/2026   | `what to do with sentimental items during a clear out`              | `/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai`          | `/services/junk-removal-dubai`          | Decision method for keepsakes so the clear-out does not stall                          | Written |
+|       64 |  21 | 25/11/2026   | `how to clear a studio apartment in one trip`                       | `/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai`                   | `/services/house-clearance-dubai`       | Fitting a whole studio into one booked slot                                            | Written |
 |       65 |  22 | 26/11/2026   | `how to dispose of old garden fencing and trellis in dubai`         | `/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai`              | `/services/garden-waste-removal-dubai`  | Timber, metal and bamboo screens, fixings and posts                                    | Planned |
 |       66 |  22 | 26/11/2026   | `how to split junk removal costs with flatmates`                    | `/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`                | `/services/junk-removal-dubai`          | Shared apartments: who owns what, fair splits, one booking                             | Planned |
 |       67 |  22 | 26/11/2026   | `how to downsize a small office in dubai`                           | `/blog/how-to-downsize-a-small-office-dubai`                                | `/services/office-cleanout-dubai`       | Moving to a smaller unit or co-working space                                           | Planned |
@@ -113,8 +113,8 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
 - Supplemental approved articles published: **151**
-- Total published articles: **214**
-- Service-support queue written: **60 / 90**
+- Total published articles: **217**
+- Service-support queue written: **63 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

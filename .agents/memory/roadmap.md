@@ -273,7 +273,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 21 (25/11/2026): old sideboards and buffet cabinets, sentimental items during a clear-out, and clearing a studio apartment in one trip.**
+- Next approved priority: **Day 22 (26/11/2026): old garden fencing and trellis, splitting junk removal costs with flatmates, and downsizing a small office in Dubai.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |
