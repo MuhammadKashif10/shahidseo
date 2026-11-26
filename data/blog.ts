@@ -51,6 +51,211 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-old-garden-fencing-and-trellis-dubai",
+    title: "How to Dispose of Old Garden Fencing and Trellis in Dubai",
+    seoTitle: "How to Dispose of Old Garden Fencing and Trellis in Dubai",
+    excerpt:
+      "How to dispose of old garden fencing and trellis in Dubai: check boundary rules, separate timber, metal and bamboo screens, pull fixings and book collection.",
+    category: "Guides",
+    tags: ["Garden Fencing", "Trellis", "Timber & Bamboo", "Garden Waste", "Dubai"],
+    coverImage: "/images/blog/garden-storage-shed-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two crew members in gloves dismantling an outdoor garden structure in a Dubai villa courtyard beside stacked panels and a tool mat",
+    publishedAt: "2026-11-26",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm whether a boundary screen sits on a shared villa wall or requires community approval before you dismantle or replace it.",
+      "Unclip drip-irrigation lines, outdoor fairy lights and climbing plants before pulling timber trellis or bamboo privacy rolls.",
+      "Separate natural timber, split bamboo, PVC slats and metal brackets—and pull or bend down protruding nails and screws.",
+      "Break concrete post footings free from soil only after checking for shallow irrigation pipes and garden lighting cables.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old garden fencing and trellis in Dubai",
+        content: [
+          "To dispose of old garden fencing and trellis in Dubai, check whether the screen sits on a shared boundary wall, clear away climbing plants, lights and drip lines, dismantle panels into manageable lengths and separate timber, bamboo, PVC and metal fixings. Bag loose screws, check for concrete post bases and book a garden or bulky-waste pickup rather than using household bins. Checked on 26/11/2026.",
+          "Dubai sun, humidity and irrigation overspray are rough on garden screening. Split bamboo rolls turn brittle within two summers, softwood trellis warps around its staples, and rusted U-channels leave sharp edges along patio walls.",
+          "If your clear-out also includes general branches, dead shrubs or lawn clippings, pair this step with the [garden waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) so green waste and structural panels stay in separate streams.",
+        ],
+        callout: {
+          title: "Check shared walls and drip lines first",
+          text: "In townhouse and villa communities, perimeter walls are often shared with a neighbour and governed by master-developer exterior rules. Confirm ownership and check behind panels for stapled irrigation tubes or low-voltage garden cables before prying anything loose.",
+        },
+      },
+      {
+        heading: "Strip plants, lights and irrigation before dismantling",
+        content: [
+          "Bougainvillea, jasmine and artificial ivy weave tightly through diamond trellis. Cut the woody stems back to the base or unhook faux-foliage mats before you lift a panel off the wall—pulling a vine-locked frame tears out masonry plugs and snaps brittle slats into splinters.",
+          "Check the bottom rail for micro-irrigation tubing and emitters clipped along the fence line. If you are replacing old tubing at the same time, the [irrigation pipes and drippers guide](/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai) explains how to lift and sort those plastics separately.",
+        ],
+      },
+      {
+        heading: "Separate timber, bamboo, metal and plastic screens",
+        content: [
+          "Garden fencing rarely arrives as one clean material. A typical villa courtyard mixes pressure-treated pine slats, galvanised wire ties, bamboo privacy rolls, composite WPC boards and aluminium posts. Keeping them apart at the garden gate speeds up loading and lets metal and clean timber go to recovery.",
+          "For heavier timber planks, pergolas or untreated offcuts, see the [wood waste disposal guide](/blog/how-to-dispose-of-wood-waste-in-dubai); for rusted steel posts, wire mesh and brackets, follow the [scrap metal disposal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai).",
+        ],
+        listItems: [
+          "Roll up bamboo and reed screening and tie each bundle with twine or tape so it does not uncoil in transit.",
+          "Stack flat timber or WPC panels together and remove or hammer flat any exposed nails and masonry screws.",
+          "Collect hinges, post caps, wire ties and wall anchors in a tough bucket or doubled sack.",
+          "Keep green vine trimmings out of the timber and plastic stack so they can be composted or chipped cleanly.",
+        ],
+        image: {
+          src: "/images/blog/garden-shed-material-sorting-dubai.webp",
+          alt: "Crew member in a green uniform loading strapped outdoor panels onto a trolley beside stacked metal uprights and bagged hardware at a villa driveway",
+        },
+      },
+      {
+        heading: "Handle posts, footings and villa access safely",
+        content: [
+          "Freestanding posts set into concrete blocks or paving are much heavier than the panels between them. Dig around the collar to see whether the post sits in a bolt-down steel shoe or a poured concrete footing—unbolting a base plate takes minutes, whereas a concrete plug needs breaking free without nicking nearby tiles.",
+          "In established villa communities such as [Arabian Ranches](/areas/arabian-ranches) and [The Springs](/areas/the-springs), side-gate widths and community security gate passes matter as much as the pile itself. Cut long rails down to two metres or less so they clear narrow side passages without scraping rendered walls.",
+          "Do not leave old fencing or trellis beside communal villa bins or on a shared verge. Our [garden waste removal service](/services/garden-waste-removal-dubai) and [bulky item removal crew](/services/bulky-item-removal-dubai) collect dismantled panels, posts, wire mesh and tied green trimmings directly from your courtyard. [Send photos of the stacked panels and side-gate access](/contact) for a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "how-to-split-junk-removal-costs-with-flatmates-dubai",
+    title: "How to Split Junk Removal Costs With Flatmates in Dubai",
+    seoTitle: "How to Split Junk Removal Costs With Flatmates in Dubai",
+    excerpt:
+      "How to split junk removal costs with flatmates in Dubai: separate personal vs shared items, choose a fair cost-split rule and book one pickup.",
+    category: "Moving & Clearance",
+    tags: ["Flatmates", "Cost Splitting", "Shared Apartment", "Move-Out", "Dubai"],
+    coverImage: "/images/blog/item-by-item-junk-removal-cost-dubai-hero.webp",
+    coverImageAlt:
+      "Resident and crew member with a tablet and tape measure assessing a sofa, mattress, washing machine, boxes and black bags in a Dubai apartment",
+    publishedAt: "2026-11-26",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "List every item leaving the flat and tag each piece as personal or shared before asking for a quote.",
+      "Split shared living-room and kitchen items equally, and charge personal bedroom furniture to the person who owns it.",
+      "Book one combined collection rather than two or three separate single-item trips—minimum call-out fees make solo bookings costlier.",
+      "Agree in the flat group chat who is paying the deposit, who meets the crew and how transfers settle on the day.",
+    ],
+    sections: [
+      {
+        heading: "How to split junk removal costs with flatmates",
+        content: [
+          "To split junk removal costs with flatmates, list every item leaving the apartment and tag it as either shared or personal before booking. Divide the cost of communal living-room, balcony and kitchen items equally, assign bulky personal items like mattresses or desks by approximate volume, and book one combined pickup so everyone saves on separate call-out fees. Checked on 26/11/2026.",
+          "Shared flats in Dubai rarely clear out on the same schedule. One person flies out early, another upgrades a bed, and a third inherits a broken coffee table nobody remembers buying—until the landlord's handover inspection makes it everyone's problem.",
+          "If you are in student accommodation or wrapping up a short academic lease, the [end-of-semester clear-out guide](/blog/end-of-semester-clear-out-for-students-dubai) covers dorm rules and early departures. This guide focuses on splitting a shared apartment's removal bill cleanly.",
+        ],
+        callout: {
+          title: "One combined pickup beats three small ones",
+          text: "Minimum truck call-outs mean three separate bookings for one mattress, two chairs and a broken TV cost far more than putting everything into a single shared collection.",
+        },
+      },
+      {
+        heading: "Tag every item as personal or communal first",
+        content: [
+          "Walk through the apartment together—or over a shared video call if someone has already travelled—and write a single list covering bedrooms, the living room, kitchen cupboards, the utility corner and the balcony. Mark each line with initials for personal items or ‘Shared’ for communal pieces.",
+          "Check the lease inventory before anyone claims or discards landlord property. Doing the [final walkthrough checks](/blog/final-walkthrough-before-junk-removal-dubai) together avoids throwing out a fitted microwave, spare router or landlord side table that would come straight out of the security deposit.",
+        ],
+      },
+      {
+        heading: "Pick a simple, transparent split formula",
+        content: [
+          "Flatmates usually stall when someone tries to price every cardboard box to the dirham. Use one of two clean rules depending on how uneven the pile is, and confirm it in the flat WhatsApp group before booking.",
+          "If you want to see how operators price mixed loads and single items, check the [item-by-item pricing guide](/blog/item-by-item-junk-removal-pricing-dubai) and the [Dubai junk removal cost guide](/blog/how-much-does-junk-removal-cost-in-dubai) before dividing shares.",
+        ],
+        listItems: [
+          "Equal split: works best when everyone is moving out together and leaving roughly similar amounts of furniture and bags.",
+          "Base-plus-bulky split: divide the shared items and base truck fee equally, then add each person's major personal items (such as a mattress, wardrobe or desk) on top.",
+          "Leaving-flatmate buyout: if one flatmate is staying on and keeps a shared sofa or dining table, deduct its agreed value or exclude it from the removal list.",
+          "Deposit-risk rule: if an outgoing flatmate leaves junk behind without settling their share, agree upfront whether it comes out of their share of the utility or rent deposit.",
+        ],
+        image: {
+          src: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+          alt: "Crew member with a tablet and tape measure sizing a combined load of an armchair, bed frame, appliance, cartons and bags beside a waiting truck",
+        },
+      },
+      {
+        heading: "Coordinate one permit, one lift slot and one payer",
+        content: [
+          "In high-rise flats across [Dubai Marina](/areas/dubai-marina) and [Jumeirah Village Circle](/areas/jumeirah-village-circle), building management only wants one move-out permit and one service-lift booking per apartment, not three separate crews turning up on the same afternoon. Review the [permit and gate-pass guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) so security has the right vehicle and crew details.",
+          "Nominate one flatmate to send the combined photos, hold the lift slot and pay the fixed invoice on completion while everyone else transfers their share before the truck arrives. Our [junk removal service](/services/junk-removal-dubai) and [house clearance crew](/services/house-clearance-dubai) can quote a single combined load from photos so each flatmate knows their exact share upfront. [Send one set of photos of the marked piles](/contact) and we will reply with a clear fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-downsize-a-small-office-in-dubai",
+    title: "How to Downsize a Small Office in Dubai Without Wasting Space or Money",
+    seoTitle: "How to Downsize a Small Office in Dubai: Practical Plan",
+    excerpt:
+      "How to downsize a small office in Dubai: audit headcount and floorplan, cut surplus desks and IT, handle data-bearing kit and clear the old unit on time.",
+    category: "Commercial & Office",
+    tags: ["Office Downsizing", "Small Office", "Co-Working", "Commercial Clearance", "Dubai"],
+    coverImage: "/images/blog/occupied-office-clearance-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Two crew members in green shirts moving a tall storage unit in a Dubai office while staff continue working at desks beside floor-to-ceiling windows",
+    publishedAt: "2026-11-26",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Map your new smaller unit or co-working allocation first—never pay to move desks, pedestals or filing cabinets that will not fit.",
+      "Check what the new space already includes (desks, meeting chairs, printers, pantry appliances) before deciding what comes with you.",
+      "Decommission and wipe surplus computers, routers and printers separately from general office furniture.",
+      "Sequence the move and the clearance so staff keep working until handover without paying for double-handling.",
+    ],
+    sections: [
+      {
+        heading: "How to downsize a small office in Dubai",
+        content: [
+          "To downsize a small office in Dubai, start with the floorplan and included furniture of your new unit or co-working space, then tag every desk, chair, cabinet and IT device as move, sell, donate or clear. Move only what fits the smaller footprint, wipe and separate surplus electronics, and schedule a single clearance for the rest before lease handover. Checked on 26/11/2026.",
+          "When a team moves from a 1,500-square-foot suite to a compact 500-square-foot unit or hot-desking hub, the biggest mistake is paying movers to haul surplus workstations into the new space—only to pay again a week later to clear them out of the corridor.",
+          "If you are relocating an entire floor and mainly need disposition options for bulk workstations, see the [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation). If your team must stay operational in the current office while zones are cleared, read the [occupied-office clearance guide](/blog/how-to-clear-an-office-while-staff-work-dubai).",
+        ],
+        callout: {
+          title: "Check what the new lease already provides",
+          text: "Serviced offices and co-working spaces in Dubai usually supply desks, task chairs, meeting rooms and shared printers. Bringing your own spare desks or pedestals often breaches their layout rules or eats up paid storage.",
+        },
+      },
+      {
+        heading: "Audit against the new floorplan, not the old one",
+        content: [
+          "Count your regular in-office seats rather than peak headcount, then place those exact workstations onto the new floorplan with proper walkway clearance. Anything that does not appear on that drawing—extra meeting tables, two-metre reception counters, spare bookshelves or under-desk pedestals—stays behind.",
+          "Check pantry and breakout items too: water dispensers, spare coffee machines, mini-fridges and artificial plants multiply in small offices and rarely belong in a compact suite.",
+        ],
+      },
+      {
+        heading: "Sort surplus furniture, paper archives and IT gear",
+        content: [
+          "Once you know what is staying behind, split the surplus into three clean streams so nothing valuable or sensitive goes into general waste. Clean ergonomic chairs and matching desks can often be resold or donated; damaged particleboard desks and mismatched partitions go to material recovery.",
+          "For detailed handling by item type, use the [old office desks guide](/blog/how-to-dispose-of-old-office-desks-in-dubai), the [office chairs guide](/blog/how-to-dispose-of-old-office-chairs-in-dubai) and the [office partitions guide](/blog/how-to-dispose-of-old-office-partitions-in-dubai). Never mix hard drives, routers or company records into the furniture pile—follow the [Dubai e-waste disposal guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) for data-bearing hardware.",
+        ],
+        listItems: [
+          "Tag every item staying with coloured tape (‘MOVE’) so movers and clearance crews never cross wires.",
+          "Shred or securely box out-of-date paper files and keep active statutory records moving with your team.",
+          "Coil and label power bricks, HDMI leads and monitor arms before disconnecting surplus screens.",
+          "Confirm whether glass partitions, signage or cabling belong to the landlord's make-good scope before dismantling them.",
+        ],
+        image: {
+          src: "/images/blog/office-zone-release-dubai-20260919-body.webp",
+          alt: "Operations manager with a tablet and crew member coiling desk cables beside an IT cart in a Dubai office",
+        },
+      },
+      {
+        heading: "Time the clearance around tower access and handover",
+        content: [
+          "Commercial towers in [Business Bay](/areas/business-bay) and [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) typically restrict bulky moves and clearances to booked service-lift slots, often after hours or on weekends, with a NOC or move-out permit from building management.",
+          "Run the physical move of kept items first, then bring in the clearance crew on the empty or half-empty suite so they can dismantle remaining desks, load e-waste safely and leave the floor swept for landlord inspection. Our [office cleanout service](/services/office-cleanout-dubai) and [same-day junk removal team](/services/same-day-junk-removal-dubai) handle small-office downsizings with out-of-hours lift scheduling. [Send photos of the surplus furniture, IT count and tower access rules](/contact) for a fixed commercial quote.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-lake-towers"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai",
     title: "How to Dispose of an Old Sideboard and Buffet Cabinet in Dubai",
     seoTitle: "How to Dispose of an Old Sideboard and Buffet Cabinet in Dubai",

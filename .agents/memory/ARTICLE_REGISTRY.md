@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-25**
+Last synchronized: **2026-11-26**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -222,10 +222,14 @@ Canonical implementation: `data/blog.ts`
 | 215 | `how to dispose of an old sideboard and buffet cabinet in dubai`          | Informational              | `/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai`             | 2026-11-25 | Published |
 | 216 | `what to do with sentimental items during a clear out`                    | Informational              | `/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai`              | 2026-11-25 | Published |
 | 217 | `how to clear a studio apartment in one trip`                             | Informational              | `/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai`                       | 2026-11-25 | Published |
+| 218 | `how to dispose of old garden fencing and trellis in dubai`               | Informational              | `/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai`                  | 2026-11-26 | Published |
+| 219 | `how to split junk removal costs with flatmates`                          | Informational              | `/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`                    | 2026-11-26 | Published |
+| 220 | `how to downsize a small office in dubai`                                 | Informational              | `/blog/how-to-downsize-a-small-office-dubai`                                    | 2026-11-26 | Published |
 
 ## Current counts
 
-- Published: **217**
+- Published: **220**
+- Published on 2026-11-26: **3**
 - Published on 2026-11-25: **3**
 - Published on 2026-11-24: **3**
 - Published on 2026-11-23: **3**
@@ -772,3 +776,10 @@ Canonical implementation: `data/blog.ts`
 - The old-furniture destination guide owns the condition-and-material decision for non-reusable furniture, including composite separation, destination confirmation and rejected-item fallback; `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the broad sell/donate/municipal/private route overview, `/blog/where-to-donate-used-furniture-in-dubai` retains recipient discovery, and `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains sofa-specific recovery.
 - The charity furniture collection guide owns the operational request from organisation verification and photo screening through building access, collection-day handover and no-show or rejection fallback; `/blog/where-to-donate-used-furniture-in-dubai` retains the charity and recipient discovery layer, while `/blog/how-to-sell-or-donate-used-furniture-in-dubai` retains marketplace pricing and the sale-to-donation decision.
 - The pre-move decluttering guide owns the destination-first new-home fit test, furniture decision score, capacity limits and separate move-versus-exit manifests; `/blog/junk-removal-before-moving-house-in-dubai` retains the removal timeline and mover-cost equation, while `/blog/how-to-declutter-your-home-room-by-room-dubai` retains the general room sequence.
+
+## Cannibalization notes for 2026-11-26 batch
+
+- The garden fencing and trellis guide (`/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai`) owns shared boundary-wall checks, stripping climbing plants/drip lines, separating timber, bamboo, PVC and metal fixings, and breaking concrete post footings; `/blog/how-to-dispose-of-wood-waste-in-dubai` retains general timber offcuts and pallets, `/blog/how-to-dispose-of-garden-waste-in-dubai` retains green waste, `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai` retains drip-line systems, and `/services/garden-waste-removal-dubai` retains commercial garden-waste collection intent.
+- The flatmates cost-splitting guide (`/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`) owns shared-apartment item tagging (personal vs communal), split formulas, deposit-risk alignment and booking one combined pickup and service-lift slot; `/blog/item-by-item-junk-removal-pricing-dubai` retains per-item planning bands, `/blog/how-much-does-junk-removal-cost-in-dubai` retains truck-tier pricing, `/blog/end-of-semester-clear-out-for-students-dubai` retains student-calendar dorm/flat packing, and `/services/junk-removal-dubai` retains commercial booking intent.
+- The small-office downsizing guide (`/blog/how-to-downsize-a-small-office-in-dubai`) owns auditing against a smaller unit or co-working floorplan, checking what the new lease already provides, separating surplus furniture, paper archives and data-bearing IT, and sequencing the move before clearance; `/blog/what-to-do-with-old-office-furniture-during-relocation` retains bulk office-furniture disposition during a full relocation, `/blog/how-to-clear-an-office-while-staff-work-dubai` retains phased clearance in an occupied office, and `/services/office-cleanout-dubai` retains commercial office-cleanout booking intent.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-26.md`.
