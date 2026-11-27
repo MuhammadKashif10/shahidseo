@@ -51,6 +51,210 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-clear-a-villa-basement-dubai",
+    title: "How to Clear a Villa Basement in Dubai",
+    seoTitle: "How to Clear a Villa Basement in Dubai: Safe Plan",
+    excerpt:
+      "How to clear a villa basement in Dubai: check for damp or mould, protect narrow stairs, stage heavy items safely and book one efficient collection.",
+    category: "Moving & Clearance",
+    tags: ["Villa Basement", "Villa Clearance", "Damp & Mould", "Stair Access", "Dubai"],
+    coverImage: "/images/blog/long-empty-villa-clearance-dubai-hero.webp",
+    coverImageAlt:
+      "Property manager and clearance crew inspecting furniture and stored contents inside a Dubai villa",
+    publishedAt: "2026-11-27",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Run a quick air, moisture and pest check before lifting anything—underground rooms hold AC condensate leaks and humidity longer than upper floors.",
+      "Measure the basement staircase width, ceiling bulkhead and turn at the top landing before committing to carry large sofas or gym machines intact.",
+      "Leave damp cardboard, swollen particleboard and mouldy rugs in a separate exit pile rather than carrying them through clean ground-floor rooms.",
+      "Protect stairwell walls, marble treads and glass balustrades with corner guards or runners before the heavy lift starts.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a villa basement in Dubai",
+        content: [
+          "To clear a villa basement in Dubai, ventilate the space and check for damp, mould or AC condensate leaks first, then measure the staircase turns and bulkhead height before moving anything heavy. Separate dry reusable items from moisture-damaged boxes or timber, dismantle oversized pieces downstairs, and stage everything near the stair landing for one booked pickup. Checked on 27/11/2026.",
+          "Basements in larger Dubai villas—especially in communities such as [Emirates Hills](/areas/emirates-hills) and [Al Barari](/areas/al-barari)—often double as home cinemas, gyms, games rooms and overflow storage. Because they sit below grade and rely on mechanical ventilation, an unattended AC drip or plumbing seep can quietly ruin stored rugs, cartons and MDF cabinets over a single summer.",
+          "If you are also tackling ground-level storage, pair this plan with the [villa garage clear-out guide](/blog/how-to-clear-out-a-villa-garage-dubai) so tools, paints and garden gear stay out of the indoor stair carry.",
+        ],
+        callout: {
+          title: "Check moisture and air quality before sorting",
+          text: "Switch on the lights and extraction or AC fan for 15 minutes before spending time downstairs. If you spot active water, black mould across walls or a strong musty odour, wear masks and gloves and separate damaged soft furnishings on the spot.",
+        },
+      },
+      {
+        heading: "Triage damp, heavy and reusable items downstairs",
+        content: [
+          "Never haul water-damaged or dusty boxes upstairs just to sort them in the living room. Do the split in the basement itself so only clean, dry items that are staying or going to charity cross your main floor.",
+          "If a recent pipe or AC leak caused the damage, follow the [water-damaged belongings guide](/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai) to photograph items for insurance before bagging them. Heavy fitness machines, pool tables and cinema recliners should be checked for bolt points downstairs; the [home gym equipment guide](/blog/how-to-dispose-of-home-gym-equipment-dubai) covers weight stacks and frames.",
+        ],
+        listItems: [
+          "Soft goods and cardboard: anything damp, warped or smelling musty goes straight into heavy-duty contractor bags and is sealed before leaving the basement.",
+          "Solid wood, metal and plastics: wipe dry and check whether joints are sound before deciding between keep, sell, donate or material recovery.",
+          "Electronics and media: check basement receivers, projectors and spare TVs for condensation or corrosion before plugging them in to test.",
+          "Hazardous tins and batteries: keep spare pool chemicals, paints or old UPS batteries out of general bags and stage them upright by the door.",
+        ],
+        image: {
+          src: "/images/blog/long-empty-villa-item-triage-dubai.webp",
+          alt: "Clearance worker recording separated furniture, electronics, textiles and stored material at a Dubai villa",
+        },
+      },
+      {
+        heading: "Plan the stair carry and protect villa finishes",
+        content: [
+          "Most villa basements have a tighter turn or lower ceiling bulkhead than the main entrance foyer. Measure the narrowest doorway, stair width and landing turn—our [furniture fit measurement guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows how to check diagonals before two people wedge a sofa halfway up the steps.",
+          "Dismantle bed frames, flat-pack shelving and sectional sofa brackets in the basement rather than at the top of the stairs. Lay floor runners over polished marble or timber treads, tape corner guards onto painted plaster edges, and use a clear external route through a side door or garage if your villa layout allows it.",
+        ],
+      },
+      {
+        heading: "Book one basement and villa clearance slot",
+        content: [
+          "Carrying heavy basement loads up stairs one car boot at a time wears out a weekend and risks scuffed walls. Our [villa clearance service](/services/villa-clearance-dubai) and [bulky item removal team](/services/bulky-item-removal-dubai) bring enough crew for safe two-person stair carries, dismantle oversized units downstairs and clear the whole pile in one visit.",
+          "[Send photos of the basement rooms, the staircase turns and the external parking access](/contact), and we will reply with a fixed price before anyone starts lifting.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["emirates-hills", "al-barari"],
+  },
+  {
+    slug: "how-to-clear-out-a-home-office-in-dubai",
+    title: "How to Clear Out a Home Office in Dubai",
+    seoTitle: "How to Clear Out a Home Office in Dubai: Step-by-Step",
+    excerpt:
+      "How to clear out a home office in Dubai when remote work ends or a study changes use: wipe IT gear, shred paperwork, pack cables and clear desks cleanly.",
+    category: "Guides",
+    tags: ["Home Office", "Desks & Chairs", "E-Waste", "Paperwork", "Dubai"],
+    coverImage: "/images/blog/e-waste-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Technicians sorting consumer electronics, audio hardware, and cables at a certified electronic waste recycling facility in Dubai",
+    publishedAt: "2026-11-27",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Check whether any laptop, monitor, docking station or chair belongs to an employer before selling, donating or disposing of it.",
+      "Wipe personal drives, log out of cloud accounts and separate shredded confidential papers from ordinary clean cardboard and scrap paper.",
+      "Coil and label power bricks, HDMI leads and monitor arms—loose tangled cables slow down both resale and e-waste sorting.",
+      "Keep small UPS battery backups and swollen laptop batteries out of general rubbish and tape terminals before collection.",
+    ],
+    sections: [
+      {
+        heading: "How to clear out a home office in Dubai",
+        content: [
+          "To clear out a home office in Dubai, start by confirming which equipment is personal and which belongs to an employer, then back up and wipe computers or external drives before disconnecting cables. Sort paperwork into keep, shred and clean paper, dismantle large desks if needed for apartment lifts, and route electronics separately from furniture. Checked on 27/11/2026.",
+          "Across apartments and townhouses in communities like [Dubai Hills Estate](/areas/dubai-hills-estate) and [The Greens](/areas/the-greens), spare bedrooms and dining corners that became full-time workspaces over the past few years are now being turned back into guest rooms, nurseries or clear living space.",
+          "If you are clearing a commercial suite rather than a home study, follow the [small-office downsizing guide](/blog/how-to-downsize-a-small-office-in-dubai) instead; this guide is built for residential rooms and personal kit.",
+        ],
+        callout: {
+          title: "Return employer-owned hardware first",
+          text: "Before listing a monitor, ergonomic chair or docking station online, check asset tags and HR onboarding emails. Many Dubai employers require company-issued peripherals back at contract end or when hybrid policies change.",
+        },
+      },
+      {
+        heading: "Handle computers, monitors, UPS units and cables safely",
+        content: [
+          "A typical home study packs a surprising amount of electronics into one desk: a laptop or tower, two screens, a printer, a router, an uninterruptible power supply (UPS) and a box of old chargers. Never drop these into a building rubbish chute or general skip.",
+          "For wiping SSDs and hard drives properly, see our [computers and laptops disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai). If your desk has an old UPS backup battery that beeps or feels warm, treat its sealed lead-acid or lithium battery carefully and check the [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) before moving it.",
+        ],
+        listItems: [
+          "Back up tax records, tenancy contracts and personal photos to a single drive or cloud folder before wiping any machine.",
+          "Sign out of Apple ID, Microsoft, Adobe and VPN accounts on computers and tablets before factory resetting.",
+          "Bundle HDMI, DisplayPort and USB-C leads with Velcro ties or tape; group mismatched power bricks in one labelled box.",
+          "Remove ink or toner cartridges from old desktop printers and bag them upright so toner does not spill inside.",
+        ],
+        image: {
+          src: "/images/blog/secure-electronics-recycling-dubai.webp",
+          alt: "Gloved technician removing a hard drive from an open computer tower beside separate recycling bins in a Dubai office",
+        },
+      },
+      {
+        heading: "Sort paperwork, desks and ergonomic chairs",
+        content: [
+          "Home-office drawers accumulate bank statements, Emirates ID copies, old utility bills and expired tenancy agreements. Run sensitive pages through a cross-cut shredder or pack them for secure destruction as outlined in the [documents and paperwork guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai); clean notebooks, manuals and flattening boxes can go straight to paper recycling.",
+          "Check your desk and chair condition honestly. A clean ergonomic mesh chair or solid sit-stand desk in working order sells quickly on local marketplaces; chipped particleboard desks and peeling faux-leather chairs rarely find buyers and are better dismantled flat for collection. Remember to unplug powered sit-stand control boxes and tape screws to the underside of the tabletop.",
+        ],
+      },
+      {
+        heading: "Book one residential pickup for desk, chair and e-waste",
+        content: [
+          "In apartment towers, moving a long corner desk and a box of monitors still needs a quick check with building security on service-lift hours. Our [junk removal service](/services/junk-removal-dubai) and [furniture removal crew](/services/furniture-removal-dubai) clear dismantled desks, worn chairs, printers and separated e-waste in one residential visit.",
+          "[Send us a photo of the home office setup and your building access notes](/contact) for a fixed upfront quote.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "the-greens"],
+  },
+  {
+    slug: "appliance-trade-in-options-dubai",
+    title: "Appliance Trade-In Options in Dubai: How They Work and What to Check",
+    seoTitle: "Appliance Trade-In Options in Dubai: What to Check",
+    excerpt:
+      "How appliance trade-in options in Dubai generally work: retailer exchange promos, condition rules, pickup timing and what to do if an old unit is rejected.",
+    category: "Eco & Recycling",
+    tags: ["Appliance Trade-In", "Retailer Take-Back", "White Goods", "Appliance Removal", "Dubai"],
+    coverImage: "/images/blog/old-appliance-disposal-routes-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai appliance collection team assessing a refrigerator, washer, television and separated small electronics",
+    publishedAt: "2026-11-27",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "In Dubai, large-appliance trade-ins are usually seasonal retailer or brand promotions rather than year-round cash-back schemes.",
+      "Trade-in credit is normally issued as an instant discount or store voucher against a specific new model—not standalone cash.",
+      "Many take-back offers require the old fridge, washer or TV to be complete, disconnected and accessible, and some require it to power on.",
+      "Always ask whether the delivery team removes the old unit on the same trip or sends a separate collection crew days later.",
+    ],
+    sections: [
+      {
+        heading: "Appliance trade-in options in Dubai",
+        content: [
+          "Appliance trade-in options in Dubai mainly run through major electronics retailers, hypermarkets and brand-direct stores during seasonal exchange promotions—often tied to Dubai Shopping Festival, Ramadan or back-to-school campaigns. Most offers give store credit or an instant discount toward a qualifying new appliance, provided the old unit meets size, completeness and pickup conditions. Checked on 27/11/2026.",
+          "If your old machine is broken beyond repair or does not qualify for an exchange offer, the [non-working appliance disposal guide](/blog/where-to-recycle-and-dispose-appliances-in-dubai) maps out recycling and safe collection routes, while the [appliance donation guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) covers charities for working units.",
+          "Because every retailer writes its own terms—and changes them between campaigns—knowing the right questions to ask at the counter saves you from having a new fridge delivered while the old one is still sitting in the kitchen.",
+        ],
+        callout: {
+          title: "Trade-in credit vs simple take-back",
+          text: "A trade-in gives a discount or voucher on a new purchase; a take-back or haul-away simply removes your old unit when the new one arrives, sometimes for a fee and without credit. Confirm which one you are booking.",
+        },
+      },
+      {
+        heading: "What retailers typically ask before accepting a trade-in",
+        content: [
+          "Retailer programmes in the UAE vary by product category. Smartphones, laptops and tablets often have year-round valuation tables, whereas large white goods—refrigerators, washing machines, dishwashers and ovens—are more commonly linked to periodic exchange campaigns or selected brands.",
+          "Before paying at checkout, confirm these four points in writing or on your order confirmation so there are no surprises at your door:",
+        ],
+        listItems: [
+          "Working condition vs any condition: some promotions accept non-working units for scrap credit, while others require the appliance to power on and have no cracked screens or missing parts.",
+          "Disconnection rules: delivery crews almost always require old washing machines, dishwashers and cookers to be unplugged, drained and disconnected from water or gas lines before they arrive.",
+          "Same-day swap vs separate pickup: confirm whether the delivery truck takes the old appliance away immediately or if a third-party team collects it 24–72 hours later.",
+          "Tower access and stair fees: in high-rises across [Dubai Marina](/areas/dubai-marina) or villas in [Arabian Ranches 2](/areas/arabian-ranches-2), ask if your move-in/move-out permit covers removing the old unit too.",
+        ],
+        image: {
+          src: "/images/blog/appliance-donation-condition-check-dubai.webp",
+          alt: "Technician inspecting the power plug and outer casing of a household electrical appliance during a condition check in Dubai",
+        },
+      },
+      {
+        heading: "How to prepare an old appliance for trade-in pickup",
+        content: [
+          "Even when a retailer approves a trade-in, the driver on the day can still refuse collection if the appliance is unsafe to lift or still plumbed in. Defrost fridges and freezers at least 24 hours ahead, wipe out standing water and tape doors shut without leaving sticky residue on intact seals.",
+          "For step-by-step preparation on specific white goods, check the [washing machine disposal guide](/blog/how-to-dispose-of-an-old-washing-machine-in-dubai) for transit bolts and drain hoses, or the [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) for upright handling. Keep any remote controls, shelves or power leads together if the trade-in terms require a complete unit.",
+        ],
+      },
+      {
+        heading: "When an appliance is rejected—or you need it gone today",
+        content: [
+          "Many residents find out at delivery that an older unit is excluded from a promotion, is too corroded to qualify, or that the retailer's collection slot is days away while the landlord or new tenant is waiting. In those cases, our [appliance removal service](/services/appliance-removal-dubai) and [same-day junk removal team](/services/same-day-junk-removal-dubai) can collect the old unit directly from your kitchen or utility room.",
+          "If you are coordinating a wider delivery-day swap that includes sofas or beds alongside appliances, see our [delivery-day removal guide](/blog/old-item-removal-on-new-furniture-delivery-day-dubai). [Send a photo of the old appliance and your building access details](/contact) for a quick fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches-2"],
+  },
+  {
     slug: "how-to-dispose-of-old-garden-fencing-and-trellis-dubai",
     title: "How to Dispose of Old Garden Fencing and Trellis in Dubai",
     seoTitle: "How to Dispose of Old Garden Fencing and Trellis in Dubai",
@@ -5170,7 +5374,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "How to clear out a villa garage in Dubai",
         content: [
           "To clear out a villa garage in Dubai, choose a collection date, open a safe central lane, and work through the space in fixed zones: doorway, vehicle bay, shelves, workbench and back wall. Pull out hazardous or unidentified items first, then sort the rest into keep, sell or donate, recycle and remove. Photograph the final groups before booking the load. Checked on 02/11/2026.",
-          "Do not empty the whole garage onto the driveway. That removes shade, mixes categories and can block vehicles, neighbours or community access. A better method finishes one small zone before starting the next. The keep group goes straight back to its assigned shelf; the exit groups move to a protected staging strip beside the garage door.",
+          "Do not empty the whole garage onto the driveway. That removes shade, mixes categories and can block vehicles, neighbours or community access. A better method finishes one small zone before starting the next. The keep group goes straight back to its assigned shelf; the exit groups move to a protected staging strip beside the garage door. If your villa also has below-grade storage, our [villa basement clearance guide](/blog/how-to-clear-a-villa-basement-dubai) covers damp checks and stair carry planning.",
           "Dubai Municipality's current services directory lists a household-appliance and furniture disposal service with eligibility, location and timing conditions. Check the [official service directory](https://www.dm.gov.ae/dubai-municipality-services/) before relying on it. A mixed garage containing chemicals, tyres, batteries or renovation debris is not automatically one ordinary bulky-waste request.",
         ],
         callout: {
@@ -13710,7 +13914,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Where to dispose of old appliances in Dubai depends on what the appliance is, whether it still works, and whether it contains refrigerant, batteries or personal data. A working washing machine may have a reuse route; a failed refrigerator needs controlled cooling-equipment handling; a laptop needs data-safe e-waste processing. This route guide was checked on 17/09/2026.",
           "For eligible households, Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists disposal of household appliances and furniture and currently notes free collection within three working days for citizens, with investment zones excluded. Do not assume that wording covers your applicant, building or appliance: open the current service details and confirm eligibility, preparation and set-out instructions before relying on it.",
-          "This article owns the decision for non-working and end-of-life appliances. Our [appliance donation guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) retains recipient acceptance for working items; the [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) retains data-bearing commercial electronics; and the [fridge and AC guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) retains refrigerant-specific handling.",
+          "This article owns the decision for non-working and end-of-life appliances. Our [appliance donation guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) retains recipient acceptance for working items; our [appliance trade-in options guide](/blog/appliance-trade-in-options-dubai) explains how retailer exchange promos and take-back rules work; the [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) retains data-bearing commercial electronics; and the [fridge and AC guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) retains refrigerant-specific handling.",
         ],
         callout: {
           title: "Identify before you book",
@@ -17580,7 +17784,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To dispose of old computers and laptops in Dubai, back up vital files, perform NIST SP 800-88 compliant data sanitization or remove the physical storage drives, isolate swollen lithium batteries, and hand over the equipment to a licensed e-waste recycler or certified IT asset disposal provider. Businesses must maintain chain-of-custody documentation and disposal certificates. Checked on 05/10/2026.",
           "Desktop computers, office workstations, and portable laptops are packed with hazardous heavy metals—such as lead solder, mercury backlights, and brominated flame retardants—alongside valuable recoverable commodities like gold, silver, and copper. Throwing an old PC into general municipal rubbish chutes or skip bins is illegal in Dubai and exposes personal or corporate information to data harvesting.",
-          "Whether you are retiring a single home laptop or clearing hundreds of corporate workstations from a commercial office, systematic data destruction and responsible hardware routing protect your privacy and the environment.",
+          "Whether you are retiring a single home laptop or clearing hundreds of corporate workstations from a commercial office, systematic data destruction and responsible hardware routing protect your privacy and the environment. If you are dismantling an entire study at once, our [home office clear-out guide](/blog/how-to-clear-out-a-home-office-in-dubai) pairs IT wiping with desk, chair and paperwork sorting.",
         ],
         callout: {
           title: "Factory reset does not permanently erase data",

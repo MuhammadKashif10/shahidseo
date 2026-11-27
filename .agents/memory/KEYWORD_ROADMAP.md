@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-26**
+Last synchronized: **2026-11-27**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -82,9 +82,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       65 |  22 | 26/11/2026   | `how to dispose of old garden fencing and trellis in dubai`         | `/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai`              | `/services/garden-waste-removal-dubai`  | Timber, metal and bamboo screens, fixings and posts                                    | Written |
 |       66 |  22 | 26/11/2026   | `how to split junk removal costs with flatmates`                    | `/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`                | `/services/junk-removal-dubai`          | Shared apartments: who owns what, fair splits, one booking                             | Written |
 |       67 |  22 | 26/11/2026   | `how to downsize a small office in dubai`                           | `/blog/how-to-downsize-a-small-office-dubai`                                | `/services/office-cleanout-dubai`       | Moving to a smaller unit or co-working space                                           | Written |
-|       68 |  23 | 27/11/2026   | `how to clear a villa basement in dubai`                            | `/blog/how-to-clear-a-villa-basement-dubai`                                 | `/services/villa-clearance-dubai`       | Damp, heavy items and limited stair access                                             | Planned |
-|       69 |  23 | 27/11/2026   | `how to clear out a home office in dubai`                           | `/blog/how-to-clear-out-a-home-office-dubai`                                | `/services/junk-removal-dubai`          | After remote work ends: desks, cables, documents, monitors                             | Planned |
-|       70 |  23 | 27/11/2026   | `appliance trade in options in dubai`                               | `/blog/appliance-trade-in-options-dubai`                                    | `/services/appliance-removal-dubai`     | How retailer trade-ins and take-back offers generally work                             | Planned |
+|       68 |  23 | 27/11/2026   | `how to clear a villa basement in dubai`                            | `/blog/how-to-clear-a-villa-basement-dubai`                                 | `/services/villa-clearance-dubai`       | Damp, heavy items and limited stair access                                             | Written |
+|       69 |  23 | 27/11/2026   | `how to clear out a home office in dubai`                           | `/blog/how-to-clear-out-a-home-office-dubai`                                | `/services/junk-removal-dubai`          | After remote work ends: desks, cables, documents, monitors                             | Written |
+|       70 |  23 | 27/11/2026   | `appliance trade in options in dubai`                               | `/blog/appliance-trade-in-options-dubai`                                    | `/services/appliance-removal-dubai`     | How retailer trade-ins and take-back offers generally work                             | Written |
 |       71 |  24 | 28/11/2026   | `how to protect floors during furniture removal`                    | `/blog/how-to-protect-floors-during-furniture-removal-dubai`                | `/services/furniture-removal-dubai`     | Marble, porcelain and wood floors: boards, sliders, route planning                     | Planned |
 |       72 |  24 | 28/11/2026   | `garden debris removal after a storm in dubai`                      | `/blog/garden-debris-removal-after-a-storm-dubai`                           | `/services/garden-waste-removal-dubai`  | Fallen branches, damaged shades and waterlogged material                               | Planned |
 |       73 |  24 | 28/11/2026   | `how to clear space at home before a new baby arrives`              | `/blog/how-to-clear-space-at-home-before-a-new-baby-arrives-dubai`          | `/services/house-clearance-dubai`       | Turning a study or spare room into a nursery                                           | Planned |
@@ -112,9 +112,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **151**
-- Total published articles: **220**
-- Service-support queue written: **66 / 90**
+- Supplemental approved articles published: **154**
+- Total published articles: **223**
+- Service-support queue written: **69 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-26**
+Last synchronized: **2026-11-27**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -225,10 +225,14 @@ Canonical implementation: `data/blog.ts`
 | 218 | `how to dispose of old garden fencing and trellis in dubai`               | Informational              | `/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai`                  | 2026-11-26 | Published |
 | 219 | `how to split junk removal costs with flatmates`                          | Informational              | `/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`                    | 2026-11-26 | Published |
 | 220 | `how to downsize a small office in dubai`                                 | Informational              | `/blog/how-to-downsize-a-small-office-dubai`                                    | 2026-11-26 | Published |
+| 221 | `how to clear a villa basement in dubai`                                  | Informational              | `/blog/how-to-clear-a-villa-basement-dubai`                                     | 2026-11-27 | Published |
+| 222 | `how to clear out a home office in dubai`                                 | Informational              | `/blog/how-to-clear-out-a-home-office-dubai`                                    | 2026-11-27 | Published |
+| 223 | `appliance trade in options in dubai`                                     | Informational              | `/blog/appliance-trade-in-options-dubai`                                        | 2026-11-27 | Published |
 
 ## Current counts
 
-- Published: **220**
+- Published: **223**
+- Published on 2026-11-27: **3**
 - Published on 2026-11-26: **3**
 - Published on 2026-11-25: **3**
 - Published on 2026-11-24: **3**
@@ -783,3 +787,10 @@ Canonical implementation: `data/blog.ts`
 - The flatmates cost-splitting guide (`/blog/how-to-split-junk-removal-costs-with-flatmates-dubai`) owns shared-apartment item tagging (personal vs communal), split formulas, deposit-risk alignment and booking one combined pickup and service-lift slot; `/blog/item-by-item-junk-removal-pricing-dubai` retains per-item planning bands, `/blog/how-much-does-junk-removal-cost-in-dubai` retains truck-tier pricing, `/blog/end-of-semester-clear-out-for-students-dubai` retains student-calendar dorm/flat packing, and `/services/junk-removal-dubai` retains commercial booking intent.
 - The small-office downsizing guide (`/blog/how-to-downsize-a-small-office-in-dubai`) owns auditing against a smaller unit or co-working floorplan, checking what the new lease already provides, separating surplus furniture, paper archives and data-bearing IT, and sequencing the move before clearance; `/blog/what-to-do-with-old-office-furniture-during-relocation` retains bulk office-furniture disposition during a full relocation, `/blog/how-to-clear-an-office-while-staff-work-dubai` retains phased clearance in an occupied office, and `/services/office-cleanout-dubai` retains commercial office-cleanout booking intent.
 - Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-26.md`.
+
+## Cannibalization notes for 2026-11-27 batch
+
+- The villa basement clearance guide (`/blog/how-to-clear-a-villa-basement-dubai`) owns below-grade moisture/mould inspection, stair and bulkhead measurement, downstairs damp triage and stair protection; `/blog/how-to-clear-out-a-villa-garage-dubai` retains ground-level garage zoning, `/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai` retains acute leak insurance documentation, and `/services/villa-clearance-dubai` retains commercial booking intent.
+- The home office clear-out guide (`/blog/how-to-clear-out-a-home-office-in-dubai`) owns residential study/remote-work decommissioning (employer asset check, drive wiping, cable bundling, shred-vs-clean paper and desk dismantling); `/blog/how-to-downsize-a-small-office-in-dubai` retains commercial suite downsizing, `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` retains technical PC/laptop erasure, `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` retains confidential document destruction, and `/services/junk-removal-dubai` retains commercial booking intent.
+- The appliance trade-in options guide (`/blog/appliance-trade-in-options-dubai`) owns how Dubai retailer exchange promos and take-back offers work, eligibility/disconnection rules and fallback when an old unit is rejected; `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains charity donation of working units, `/blog/where-to-recycle-and-dispose-appliances-in-dubai` retains non-working appliance disposal, `/blog/old-item-removal-on-new-furniture-delivery-day-dubai` retains general delivery-day removal, and `/services/appliance-removal-dubai` retains commercial booking intent.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule. See `docs/article-images-2026-11-27.md`.
